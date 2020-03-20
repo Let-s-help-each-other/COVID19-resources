@@ -35,9 +35,9 @@ The best way to contribute is to make a pull request. Here's how:
 # Resources
 
 ## By County: 
-[San Mateo](#san-mateo-county) 
+[San Mateo](#san-mateo) || [Alameda](#alameda) || [Contra Costa](#contra-costa) || [Marin](#marin) || [Napa](#napa) || [San Francisco](#san-francisco) || [Santa Clara](#santa-clara) || [Solano](#solano) || [Sonoma](#sonoma) 
 
-## San Mateo County
+## San Mateo
 
 ### Second Harvest of Silicon Valley
 
@@ -62,3 +62,28 @@ The best way to contribute is to make a pull request. Here's how:
 **Contact information (phone, email)**: 1-800-675-8437 or 650-675-8437
 
 **Website**: https://www.smc-connect.org/locations/san-mateo-county-health-system/aging-and-adult-services
+
+## Alameda
+
+
+## Contra Costa
+
+
+## Marin
+
+
+## Napa
+
+
+## San Francisco
+
+
+## Santa Clara
+
+
+## Solano
+
+
+## Sonoma
+
+
