@@ -3,8 +3,9 @@ San Francisco Bay Area edition
 
 # Table of contents
 1. [How to contribute](#how-to-contribute)
-2. [Templates](#templates) 
-3. [Resources](#resources)
+2. [Creating a version for your own area](#creating-a-version-for-your-own-area) 
+3. [Templates](#templates) 
+4. [Resources](#resources)
 
 # How to contribute
 
