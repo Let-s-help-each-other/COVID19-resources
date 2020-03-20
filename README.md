@@ -18,6 +18,11 @@ The best way to contribute is to make a pull request. Here's how:
 6. The title of your pull request is automatically the name of the change you proposed in the previous page. You can change it; write more description; or cancel. 
 7. Once you're done writing, click on *Create pull request*. 
 
+# Creating a version for your own area
+
+You can fork this repository, remove the county-specific information, and add your own city's/county's/state's. To fork, click on the Fork button on the very top right, opposite the repo name. The repository gets forked to your own Github account. 
+
+
 ## Templates
 
 ### <Name of the resource> 
