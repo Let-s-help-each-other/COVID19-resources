@@ -50,3 +50,15 @@ The best way to contribute is to make a pull request. Here's how:
 **Contact information (phone, email)**: 650-610-0800
 
 **Website**: https://www.shfb.org/
+
+### San Mateo County for Aging and Adult Services
+
+**County**: San Mateo
+
+**City**: All 
+
+**What do they do?** Help senior citizens in the county
+
+**Contact information (phone, email)**: 1-800-675-8437 or 650-675-8437
+
+**Website**: https://www.smc-connect.org/locations/san-mateo-county-health-system/aging-and-adult-services
