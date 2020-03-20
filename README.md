@@ -3,9 +3,8 @@ San Francisco Bay Area edition
 
 # Table of contents
 1. [How to contribute](#how-to-contribute)
-2. [Creating a version for your own area](#creating-a-version-for-your-own-area) 
-3. [Templates](#templates) 
-4. [Resources](#resources)
+2. [Templates](#templates) 
+3. [Resources](#resources)
 
 # How to contribute
 
@@ -19,11 +18,6 @@ The best way to contribute is to make a pull request. Here's how:
 6. The title of your pull request is automatically the name of the change you proposed in the previous page. You can change it; write more description; or cancel. 
 7. Once you're done writing, click on *Create pull request*. 
 
-# Creating a version for your own area
-
-You can fork this repository, remove the county-specific information, and add your own city's/county's/state's. To fork, click on the Fork button on the very top right, opposite the repo name. The repository gets forked to your own Github account. 
-
-
 ## Templates
 
 ### <Name of the resource> 
@@ -32,7 +26,7 @@ You can fork this repository, remove the county-specific information, and add yo
 
 **City**: <Which city/cities?>
 
-**What do they need help with?** <Donations? Distance volunteering?>
+**What do they need help with?** <Donations? Volunteering?>
 
 **Contact information (phone, email)**: 
 
@@ -42,6 +36,23 @@ You can fork this repository, remove the county-specific information, and add yo
 
 ## By County: 
 [San Mateo](#san-mateo) || [Alameda](#alameda) || [Contra Costa](#contra-costa) || [Marin](#marin) || [Napa](#napa) || [San Francisco](#san-francisco) || [Santa Clara](#santa-clara) || [Solano](#solano) || [Sonoma](#sonoma) 
+
+
+
+## Alameda
+
+
+## Contra Costa
+
+
+## Marin
+
+
+## Napa
+
+
+## San Francisco
+
 
 ## San Mateo
 
@@ -68,20 +79,6 @@ You can fork this repository, remove the county-specific information, and add yo
 **Contact information (phone, email)**: 1-800-675-8437 or 650-675-8437
 
 **Website**: https://www.smc-connect.org/locations/san-mateo-county-health-system/aging-and-adult-services
-
-## Alameda
-
-
-## Contra Costa
-
-
-## Marin
-
-
-## Napa
-
-
-## San Francisco
 
 
 ## Santa Clara
