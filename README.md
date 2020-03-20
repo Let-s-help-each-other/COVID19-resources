@@ -28,13 +28,29 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 ## Templates
 
+## Template for non-profit organization:
+
 ### <Name of the resource> 
 
 **County**: <Insert county> 
 
 **City**: <Which city/cities?>
 
-**What do they need help with?** <Donations? Volunteering?>
+**What do they need help with?** <Donations? Supplies? Volunteering?>
+
+**Contact information (phone, email)**: 
+
+**Website**: 
+
+## Template for resources:
+
+### <Name of the resource> 
+
+**County**: <Insert county> 
+
+**City**: <Which city/cities?>
+
+**What resource does it provide?** <Food? Shelter? Delivery?>
 
 **Contact information (phone, email)**: 
 
