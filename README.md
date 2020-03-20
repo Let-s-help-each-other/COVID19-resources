@@ -43,7 +43,7 @@ Then, you can remove the Bay Area specific information and add info particular t
 # Resources
 
 ## By County: 
-[San Mateo](#san-mateo) || [Alameda](#alameda) || [Contra Costa](#contra-costa) || [Marin](#marin) || [Napa](#napa) || [San Francisco](#san-francisco) || [Santa Clara](#santa-clara) || [Solano](#solano) || [Sonoma](#sonoma) 
+[Alameda](#alameda) || [Contra Costa](#contra-costa) || [Marin](#marin) || [Napa](#napa) || [San Francisco](#san-francisco) || [San Mateo](#san-mateo) || [Santa Clara](#santa-clara) || [Solano](#solano) || [Sonoma](#sonoma) 
 
 
 
@@ -90,6 +90,18 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 
 ## Santa Clara
+
+### Second Harvest of Silicon Valley
+
+**County**: San Mateo & Santa Clara
+
+**City**: Every city in the San Mateo & Santa Clara county
+
+**What do they need help with?** Donations can be made [here](https://give.shfb.org/covid-19?appeal=3075). Sign up to volunteer for a shift [here](https://www.shfb.org/give-help/volunteer/). 
+
+**Contact information (phone, email)**: 650-610-0800
+
+**Website**: https://www.shfb.org/
 
 
 ## Solano
