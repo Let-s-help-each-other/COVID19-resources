@@ -68,6 +68,17 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 ## Contra Costa
 
+### School meal sites during COVID-19 closures 
+
+**County**: Contra Costa 
+
+**City**: Antioch
+
+**What resource does it provide?** Food. Free for all children under the age of 18. M-F 10AM-12PM
+
+**Contact information (phone, email)**: Marsh Elementary, Deer Valley High
+
+
 
 ## Marin
 
