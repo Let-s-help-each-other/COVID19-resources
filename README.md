@@ -1,6 +1,37 @@
 # COVID-19-resources
 San Francisco Bay Area edition
 
+# Table of contents
+1. [How to contribute](#how-to-contribute)
+2. [Templates](#templates) 
+3. [Resources](#resources)
+
+# How to contribute
+
+The best way to contribute is to make a pull request. Here's how: 
+
+1. Click on the edit button on the top right corner of the README.md
+2. Make your changes to the resources: follow the [template](#templates) for how to add resources in the right section. You might also want to refer to the [guide on markdown](https://guides.github.com/features/mastering-markdown/) which tells you how to use formatting. This will make it much easier for people to find the resources they need. You can also click on *Preview changes* tab to see how your changes will look.  
+3. Make a simple (maybe less than 5 words) commit message in the *Commit changes* section and an optional description below that. 
+4. Ensure you pick the **Create a new branch** option below! 
+5. Then click on *Propose file change*. This leads you to the *Open a pull request* page. 
+6. The title of your pull request is automatically the name of the change you proposed in the previous page. You can change it; write more description; or cancel. 
+7. Once you're done writing, click on *Create pull request*. 
+
+## Templates
+
+### <Name of the resource> 
+
+**County**: <Insert county> 
+
+**City**: <Which city/cities?>
+
+**What do they need help with?** <Donations? Distance volunteering?>
+
+**Contact information (phone, email)**: 
+
+**Website**: 
+
 # Resources
 
 ## By County: 
