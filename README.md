@@ -3,8 +3,10 @@ San Francisco Bay Area edition
 
 # Table of contents
 1. [How to contribute](#how-to-contribute)
-2. [Templates](#templates) 
-3. [Resources](#resources)
+2. [Other cities/areas/states](#other-cities-and-areas)
+3. [Templates](#templates) 
+4. [Resources](#resources)
+
 
 # How to contribute
 
@@ -17,6 +19,12 @@ The best way to contribute is to make a pull request. Here's how:
 5. Then click on *Propose file change*. This leads you to the *Open a pull request* page. 
 6. The title of your pull request is automatically the name of the change you proposed in the previous page. You can change it; write more description; or cancel. 
 7. Once you're done writing, click on *Create pull request*. 
+
+# Other cities and areas
+
+To do something similar for other cities/areas/states, fork this repository by clicking on the Fork button on the top right corner, right opposite the repository name. This creates a copy of the repo in your own account. 
+
+Then, you can remove the Bay Area specific information and add info particular to your own area. 
 
 ## Templates
 
