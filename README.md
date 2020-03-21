@@ -97,6 +97,8 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **Contact information (phone, email)**: Corner of 18th and Dolores Strees, San Francisco; call or text (925) 323-0089. 
 
+---
+
 ### San Francisco Medical Center
 
 **County**: San Francisco
