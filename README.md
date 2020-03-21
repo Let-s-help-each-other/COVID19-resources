@@ -211,7 +211,17 @@ Santa Teresa Medical Center
 **What do they do**: Operate Santa Clara Valley Hospital and Clinics, O'Connor Hospital, and St. Louise Regional Hospital 
 **What do they need help with**: [Donations of PPE](https://vmcfoundation.org/covid19list/); <q>Donations can be delivered to our office between the hours of Monday-Friday 8 a.m. – 5 p.m. and Saturdays and Sunday 10 a.m. – 3 p.m. at 2400 Clove Drive, San Jose (on the campus of Santa Clara Valley Medical Center).  Questions?  Call 408-885-5299 or email vmcfoundation@hhs.sccgov.org.</q>
 
-### Gardner Health 
+### [Gardner Health Services](https://gardnerhealthservices.org/services/flu-shot-clinic/)
+
+**County**: Santa Clara and Santa Clara
+
+**City**: San Jose
+
+**What do they do**: <q>Gardner Health Services is dedicated to improving the health status of the communities we serve, especially the disenfranchised, disadvantaged and most vulnerable members.</q>
+
+**Note**: Gardner is not cancelling existing appointments
+
+**What do they need**: [Money](https://gardnerhealthservices.org/support-gardner/) **TODO**: sent email asking what they need, besides money
 
 ### Second Harvest of Silicon Valley
 
