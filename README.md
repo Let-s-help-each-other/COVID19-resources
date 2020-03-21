@@ -82,6 +82,18 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 ## Marin
 
+### Bolinas Community Inc 
+
+**County**: Marin
+
+**City**: Bolinas
+
+**What resource does it provide?** Food
+
+**Contact information (phone, email)**: (415) 868-2128
+
+**Website**:14 Wharf Rd. Bolinas 94924
+
 
 ## Napa
 
