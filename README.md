@@ -61,7 +61,7 @@ Then, you can remove the Bay Area specific information and add info particular t
 ## By County: 
 [Alameda](#alameda) || [Contra Costa](#contra-costa) || [Marin](#marin) || [Napa](#napa) || [San Francisco](#san-francisco) || [San Mateo](#san-mateo) || [Santa Clara](#santa-clara) || [Solano](#solano) || [Sonoma](#sonoma) 
 
-
+### There is a shortage of medical supplies at hospitals. If you have extra N95 masks, gloves and other medical supplies, please consider donating them to hospitals. 
 
 ## Alameda
 
