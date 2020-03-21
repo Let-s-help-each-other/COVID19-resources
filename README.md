@@ -185,7 +185,9 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **City**: San Jose (County Seat)
 
-**What do they need help with?**: Follow state-wide shelter-in-place orders. Site has updated information on the county-wide response to novel Coronavirus.
+**What do they do**: Site has updated information and guidance on the county-wide response to novel Coronavirus.
+
+**What do they need help with?**: Follow state-wide shelter-in-place orders. 
 
 ### Kaiser Permamente 
 
@@ -201,8 +203,7 @@ Santa Teresa Medical Center
 
 ### [Palo Alto Medical Foundation (Sutter Health)](https://www.sutterhealth.org/for-patients/health-alerts/2019-novel-coronavirus)
 
-**TODO** Called Sutter's press office () and left message 
-
+**TODO** Called Sutter's press office and left message 
 
 ### Santa Clara County Medical Foundation
 **County**: Santa Clara
