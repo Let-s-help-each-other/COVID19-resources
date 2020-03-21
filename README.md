@@ -84,6 +84,29 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 ## Napa
 
+### Queen of the Valley Medical Center
+
+**County**: Napa
+
+**City**: Napa
+
+**What do they need help with?** There is a shortage of N95 masks and gloves. Please consider donating extra N95 masks and gloves. Drop off at the front ER entrance.
+
+**Contact information (phone, email)**: 1000 Trancas St, Napa, CA 94558, 707-252-4411
+
+---
+
+### Adventist Health St. Helena
+
+**County**: Napa
+
+**City**: St. Helena
+
+**What do they need help with?** Shortage unknown at this time
+
+**Contact information (phone, email)**: 10 Woodland Rd, St Helena, CA 94574, 707-963-3511
+
+
 
 ## San Francisco
 
