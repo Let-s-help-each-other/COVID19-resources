@@ -216,6 +216,8 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 
 **Website**: https://www.shfb.org/
 
+---
+
 ### Santa Clara Valley Medical Foundation
 
 **County**: Santa Clara
