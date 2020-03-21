@@ -101,6 +101,16 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **Contact information (phone, email)**: 301 Industrial Rd in San Carlos, 650-596-4100 
 
+### [Rape Trauma Services](https://www.rapetraumaservices.org/what-we-do/overview.html)
+
+**County**: San Mateo  
+
+**What do they do**: <q>Calls for crisis intervention and accompaniments will be performed via telephone and we will follow up with survivors to make sure they are getting the support they need remotely.</q>
+
+**What do they need help with**: Donations
+
+**Contact information (phone, email)**: 24 Hour Crisis Line (650) 692-7273 
+
 ### Sequoia Hospital
 
 **County**: San Mateo
