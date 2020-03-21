@@ -78,6 +78,103 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **Contact information (phone, email)**: Marsh Elementary, Deer Valley High
 
+---
+
+### Contra Costa Regional Medical Center
+
+**County**: Contra Costa
+
+**City**: Martinez
+
+**What do they need help with?** No shortage at the moment
+
+**Contact information (phone, email)**: 2500 Alhambra Ave, Martinez, CA 94553, 925-370-5000
+
+---
+
+### John Muir Medical Center - Walnut Creek Campus
+
+**County**: Contra Costa
+
+**City**: Walnut Creek
+
+**What do they need help with?** Shortage of n95 masks, face shields. Drop off at the front entrance
+
+**Contact information (phone, email)**: 1601 Ygnacio Valley Road, Walnut Creek, CA 94598, 925-939-3000
+
+---
+
+### Kaiser Medical Center - Antioch
+
+**County**: Contra Costa
+
+**City**: Antioch
+
+**What do they need help with?** No shortage at the moment.
+
+**Contact information (phone, email)**: 5601 Deer Valley Road, Antioch, CA 94531, 925-813-6500
+
+---
+
+### Kaiser Medical Center - Richmond
+
+**County**: Contra Costa
+
+**City**: Richmond
+
+**What do they need help with?** Shortage of N95 masks, gloves, cleaning supplies. Drop off at the ER entrance.
+
+**Contact information (phone, email)**: 901 Nevin Avenue, Richmond, CA 94504, 510-307-1500
+
+---
+
+### Kaiser Medical Center - Walnut Creek
+
+**County**: Contra Costa
+
+**City**: Walnut Creek
+
+**What do they need help with?** Nobody was available to answer this question. Call Monday.
+
+**Contact information (phone, email)**: 1425 South Main St., Walnut Creek, CA 94596, 925-295-4000
+
+---
+
+### John Muir Medical Center - Concord Campus
+
+**County**: Contra Costa
+
+**City**: Concord
+
+**What do they need help with?** Accepting donations n95 masks and isolation gowns. Drop off at the security at the front entrance.
+
+**Contact information (phone, email)**: 2540 East Street, Concord, CA 94524-4110, 925-682-8200
+
+---
+
+### San Ramon Regional Medical Center
+
+**County**: Contra Costa
+
+**City**: San Ramon
+
+**What do they need help with?** No shortages at this time
+
+**Contact information (phone, email)**: 6001 Norris Canyon Road, San Ramon, CA 94583, 925-275-9200
+
+---
+
+### Sutter/Delta Medical Center
+
+**County**: Contra Costa
+
+**City**: Antioch
+
+**What do they need help with?** No shortages at this time
+
+**Contact information (phone, email)**: 3901 Lone Tree Way, Antioch, CA 94509, 925-779-7200
+
+
 
 ## Marin
 
