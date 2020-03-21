@@ -171,6 +171,23 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 ## Santa Clara
 
+### [Santa Clara County Public Health](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx) 
+**County**: Santa Clara
+**City**: San Jose (County Seat)
+**What do they need help with?**: Follow state-wide shelter-in-place orders. Site has updated information on the county-wide response to novel coronavirus.
+
+### Kaiser Hospital 
+
+### Stanford Health
+
+### Palo Alto Medical Foundation
+
+### Santa Clara County Medical Foundation
+**County**: Santa Clara
+**City**: 
+
+### Gardner Health 
+
 ### Second Harvest of Silicon Valley
 
 **County**: San Mateo & Santa Clara
