@@ -140,12 +140,18 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **Contact information (phone, email)**: New Community Support Call Center is accessible by phone Monday through Friday between the hours of 8:30 a.m. and 6 p.m. Call (650) 272–3181 with your questions about COVID-19.
 
-**Website**: Useful resource links:
+**Website**: Useful resource links...
+
 Go [here](https://www.cityofpaloalto.org/services/public_safety/plans_and_information/coronavirus/default.asp) for the City’s dedicated Coronavirus webpage.
+
 Go [here](https://us7.campaign-archive.com/home/?u=5bb3b762047926b143fbbee55&id=d8eda03e5f) for Daily Coronavirus Reports and sign up.
+
 Go [here](https://www.cityofpaloalto.org/services/public_safety/plans_and_information/coronavirus/support_services.asp) to get connected with Palo Alto community based organizations, resources and ways to volunteer and help.
+
 Go [here](https://www.cdc.gov/coronavirus/2019-ncov/faq.html) for the Centers for Disease Control and Prevention Frequently Asked Questions.
+
 Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx) for the State of California Department of Public Health.
+
 Go [here](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/frequently-asked-questions.aspx) for the Santa Clara County Public Health Department Frequently Asked Questions.
 
 [Source](https://medium.com/paloaltoconnect/staying-connected-through-information-e34f16f98753)
