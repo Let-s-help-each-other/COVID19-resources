@@ -61,7 +61,7 @@ Then, you can remove the Bay Area specific information and add info particular t
 ## By County: 
 [Alameda](#alameda) || [Contra Costa](#contra-costa) || [Marin](#marin) || [Napa](#napa) || [San Francisco](#san-francisco) || [San Mateo](#san-mateo) || [Santa Clara](#santa-clara) || [Solano](#solano) || [Sonoma](#sonoma) 
 
-### There is a shortage of medical supplies at hospitals. If you have extra N95 masks, gloves and other medical supplies, please consider donating them to hospitals. 
+### There is a shortage of medical supplies at hospitals. If you have extra N95 masks, gloves and other medical supplies, please consider donating them to hospitals. See list in your respective counties. 
 
 ## Alameda
 
@@ -90,6 +90,28 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 
 ## San Mateo
+
+### PAMF San Carlos
+
+**County**: San Mateo
+
+**City**: San Carlos
+
+**What do they need help with?** There is a shortage of N95 masks. Please consider donating extra N95 masks. Drop off at urgent care on the first floor of the hospital. 
+
+**Contact information (phone, email)**: 301 Industrial Rd in San Carlos, 650-596-4100 
+
+
+### Sequoia Hospital
+
+**County**: San Mateo
+
+**City**: Redwood City
+
+**What do they need help with?** There is a shortage of medical supplies. Please consider donating extra N95 masks and other medical supplies. Drop off at the front door.
+
+**Contact information (phone, email)**: 170 Alameda de las Pulgas, 650-369-5811
+
 
 ### Second Harvest of Silicon Valley
 
