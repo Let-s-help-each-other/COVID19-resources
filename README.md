@@ -101,6 +101,7 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **Contact information (phone, email)**: 301 Industrial Rd in San Carlos, 650-596-4100 
 
+---
 
 ### Sequoia Hospital
 
@@ -112,6 +113,7 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **Contact information (phone, email)**: 170 Alameda de las Pulgas, 650-369-5811
 
+---
 
 ### Kaiser Permanente 
 
@@ -123,6 +125,8 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **Contact information (phone, email)**: 1100 Veterans Blvd, 650-299-2000
 
+---
+
 ### Mills Peninsula Medical Center
 
 **County**: San Mateo
@@ -132,6 +136,8 @@ Then, you can remove the Bay Area specific information and add info particular t
 **What do they need help with?** There is a shortage of N95 masks. Please consider donating extra N95 masks and other medical supplies. Drop off at the main lobby entrance from M-F 7am-5pm, Sat-Sun 7am-noon
 
 **Contact information (phone, email)**: 1501 Trousdale Drive Burlingame, CA 94010, 650-696-5400
+
+---
 
 ### Seton Medical Center
 
@@ -143,6 +149,7 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **Contact information (phone, email)**: 1900 Sullivan Ave in Daly City, 650-992-4000
 
+---
 
 ### Second Harvest of Silicon Valley
 
@@ -156,6 +163,8 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **Website**: https://www.shfb.org/
 
+---
+
 ### San Mateo County for Aging and Adult Services
 
 **County**: San Mateo
@@ -167,6 +176,7 @@ Then, you can remove the Bay Area specific information and add info particular t
 **Contact information (phone, email)**: 1-800-675-8437 or 650-675-8437
 
 **Website**: https://www.smc-connect.org/locations/san-mateo-county-health-system/aging-and-adult-services
+
 
 
 ## Santa Clara
