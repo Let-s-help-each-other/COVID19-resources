@@ -134,9 +134,13 @@ Then, you can remove the Bay Area specific information and add info particular t
 **Contact information (phone, email)**: 1501 Trousdale Drive Burlingame, CA 94010, 650-696-5400
 
 ### Seton Medical Center
+
 **County**: San Mateo
+
 **City**: Daly City
+
 **What do they need help with?** There is a shortage of any medical supplies. Please consider donating extra medical supplies. Drop off at the front of the hospital. 
+
 **Contact information (phone, email)**: 1900 Sullivan Ave in Daly City, 650-992-4000
 
 
