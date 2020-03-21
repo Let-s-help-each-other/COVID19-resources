@@ -113,6 +113,18 @@ Then, you can remove the Bay Area specific information and add info particular t
 **Contact information (phone, email)**: 170 Alameda de las Pulgas, 650-369-5811
 
 
+### Kaiser Permanente 
+
+**County**: San Mateo
+
+**City**: Redwood City
+
+**What do they need help with?** There is a shortage of N95 masks, gloves, goggles, gowns, face shields and hand sanitizers. Please consider donating extra medical supplies. Drop off from 6AM-2:30PM at RWC medical center on the loading dock behind the emergency department right off at Walnut Street at urgent care on the first floor of the hospital. 
+
+**Contact information (phone, email)**: 1100 Veterans Blvd, 650-299-2000
+
+
+
 ### Second Harvest of Silicon Valley
 
 **County**: San Mateo & Santa Clara
