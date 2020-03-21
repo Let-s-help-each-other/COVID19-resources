@@ -101,7 +101,6 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **Contact information (phone, email)**: 301 Industrial Rd in San Carlos, 650-596-4100 
 
-
 ### Sequoia Hospital
 
 **County**: San Mateo
@@ -173,7 +172,9 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 ### [Santa Clara County Public Health](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx) 
 **County**: Santa Clara
+
 **City**: San Jose (County Seat)
+
 **What do they need help with?**: Follow state-wide shelter-in-place orders. Site has updated information on the county-wide response to novel Coronavirus.
 
 ### Kaiser Permamente 
@@ -186,13 +187,16 @@ Santa Teresa Medical Center
 
 ### [Stanford Health Care](https://med.stanford.edu/covid19.html)
 
+**TODO** Called office of communications (Lisa Kim, 650-723-6696) with request for information on PPE donations
 
+### [Palo Alto Medical Foundation (Sutter Health)](https://www.sutterhealth.org/for-patients/health-alerts/2019-novel-coronavirus)
 
-### Palo Alto Medical Foundation
+**TODO** Called Sutter's press office () and left message 
+
 
 ### Santa Clara County Medical Foundation
 **County**: Santa Clara
-**City**: 
+**City**: San Jose
 
 ### Gardner Health 
 
