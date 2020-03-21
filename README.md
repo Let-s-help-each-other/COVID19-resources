@@ -79,7 +79,6 @@ Then, you can remove the Bay Area specific information and add info particular t
 **Contact information (phone, email)**: Marsh Elementary, Deer Valley High
 
 
-
 ## Marin
 
 
@@ -87,6 +86,28 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 
 ## San Francisco
+
+### UCSF
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** N95 masks, gloves, goggles, face shields and other supplies. Medical students will be collecting supplies on the corner of 18th and Dolores Strees, San Francisco, from 10 a.m to 3 p.m. on Friday, March 20 through Sunday, March 22. Anyone who needs supplies picked up can call or text (925) 323-0089.
+
+**Contact information (phone, email)**: Corner of 18th and Dolores Strees, San Francisco; call or text (925) 323-0089. 
+
+### San Francisco Medical Center
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** They need goggles, face shields, hand sanitizer, masks (N95, surgical, and isolation masks), isolation or surgical gowns and wipes. Donations may be mailed to *Kaiser Permanente, 2130 O'Farrell St., San Francisco, CA 94115 Attn: Hospital Command Center* or dropped off at the loading dock, Monday to Friday 6 a.m. to 2:30 p.m at the address above. 
+
+If you are dropping off donations, please call (415) 833-2593 and a staff member will come to accept the donation. If you need to make arrangements after the loading dock closes at 2:30 p.m. contact the hospital operator at (415)833-2000 and you will be contacted within 24 hours to schedule a delivery.
+
+**Contact information (phone, email)**: For dropping off: (415) 833-2593. For further arrangements: (415)833-2000. 
 
 
 ## San Mateo
@@ -192,6 +213,18 @@ Then, you can remove the Bay Area specific information and add info particular t
 **Contact information (phone, email)**: 650-610-0800
 
 **Website**: https://www.shfb.org/
+
+### Santa Clara Valley Medical Foundation
+
+**County**: Santa Clara
+
+**City**: San Jose
+
+**What do they need help with?** They need N95 masks, hand sanitizer, goggles, gloves, [and more](https://vmcfoundation.org/covid19list/).Donations can be delivered to their office between the hours of Monday-Friday 8 a.m. – 5 p.m. and Saturdays and Sunday 10 a.m. – 3 p.m. at 2400 Clove Drive, San Jose (on the campus of Santa Clara Valley Medical Center).   
+
+**Contact information (phone, email)**: 2400 Clove Drive, San Jose, (408) 885-5299 or email vmcfoundation@hhs.sccgov.org.
+
+**Website**: https://vmcfoundation.org/
 
 
 ## Solano
