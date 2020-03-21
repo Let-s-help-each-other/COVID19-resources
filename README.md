@@ -134,7 +134,7 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **City**: Walnut Creek
 
-**What do they need help with?** Nobody was available to answer this question. Call Monday.
+**What do they need help with?** If you have less than 100 n95 masks, please donate them to the local police and fire stations. If you have more than 100 n95 masks, please email, buy2topay@kp.org
 
 **Contact information (phone, email)**: 1425 South Main St., Walnut Creek, CA 94596, 925-295-4000
 
