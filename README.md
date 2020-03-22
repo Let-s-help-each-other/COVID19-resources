@@ -187,6 +187,18 @@ Congresswoman Alexandria Octavia-Cortez and community organizer Mariame Kaba sha
 
 ## Marin
 
+### Bolinas Community Inc 
+
+**County**: Marin
+
+**City**: Bolinas
+
+**What resource does it provide?** Food
+
+**Contact information (phone, email)**: (415) 868-2128
+
+**Website**:14 Wharf Rd. Bolinas 94924
+
 
 ## Napa
 
