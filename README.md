@@ -64,6 +64,11 @@ Mutual Aid is, <q>cooperation for the sake of the common good,</q> and a long es
 
 Congresswoman Alexandria Octavia-Cortez and community organizer Mariame Kaba shared [their notes from a presentation on starting mutual aid networks in your building, block and neighborhood](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyOfapJUOB6Ko2_1iAfIm8ELeIgma21wIt5HoTqP1QXadF01eZc0ySrPW6VtU_veyp?akid=774.784925.1rjSNY&rd=1&t=1).
 
+## General Links
+
+Go [here](https://www.cdc.gov/coronavirus/2019-ncov/faq.html) for the Centers for Disease Control and Prevention Frequently Asked Questions.
+
+Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx) for the State of California Department of Public Health.
 
 ## By County: 
 [Alameda](#alameda) || [Contra Costa](#contra-costa) || [Marin](#marin) || [Napa](#napa) || [San Francisco](#san-francisco) || [San Mateo](#san-mateo) || [Santa Clara](#santa-clara) || [Solano](#solano) || [Sonoma](#sonoma) 
@@ -384,6 +389,7 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 ## Santa Clara
 
 ### [Santa Clara County Public Health](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx) 
+
 **County**: Santa Clara
 
 **City**: San Jose (County Seat)
@@ -490,6 +496,26 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 
 **Website**: https://www.shfb.org/
 
+### City of Palo Alto
+
+**County**: Santa Clara
+
+**City**: Palo Alto
+
+**What do they need help with?** Palo Alto is actively recruiting volunteers to help those in need. Check [here](https://www.cityofpaloalto.org/services/public_safety/plans_and_information/coronavirus/support_services.asp).
+
+**Contact information (phone, email)**: New Community Support Call Center is accessible by phone Monday through Friday between the hours of 8:30 a.m. and 6 p.m. Call (650) 272–3181 with your questions about COVID-19.
+
+**Website**: Useful resource links...
+
+Go [here](https://www.cityofpaloalto.org/services/public_safety/plans_and_information/coronavirus/default.asp) for the City’s dedicated Coronavirus webpage.
+
+Go [here](https://us7.campaign-archive.com/home/?u=5bb3b762047926b143fbbee55&id=d8eda03e5f) for Daily Coronavirus Reports and sign up.
+
+Go [here](https://www.cityofpaloalto.org/services/public_safety/plans_and_information/coronavirus/support_services.asp) to get connected with Palo Alto community based organizations, resources and ways to volunteer and help.
+
+[Source](https://medium.com/paloaltoconnect/staying-connected-through-information-e34f16f98753)
+
 ---
 
 ### Santa Clara Valley Medical Foundation
@@ -503,7 +529,6 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 **Contact information (phone, email)**: 2400 Clove Drive, San Jose, (408) 885-5299 or email vmcfoundation@hhs.sccgov.org.
 
 **Website**: https://vmcfoundation.org/
-
 
 ## Solano
 
