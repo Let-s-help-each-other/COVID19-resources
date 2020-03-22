@@ -244,6 +244,26 @@ Congresswoman Alexandria Octavia-Cortez and community organizer Mariame Kaba sha
 
 **What do they need**: [Money](https://gardnerhealthservices.org/support-gardner/) **TODO**: sent email asking what they need, besides money
 
+### Sacred Heart Community Service
+
+**County**: Santa Clara
+
+**City**: San Jose, Santa Clara, Campbell 
+
+**What do they do**: <q>Our mission is to build a community free from poverty by creating hope, opportunity, and action. We provide essential services, work together to improve our lives, advocate for justice, and inspire our community to love, serve, and share.</q>
+
+**What do they need**: [Donations](https://donate.sacredheartcs.org/give/53813/#!/donation/checkout); if you are White and wish to volunteer, please go through SURJ (below)
+
+### [Showing Up for Racial Justice (SURJ)](https://www.surjatsacredheart.org/)
+
+**County**: Santa Clara
+
+**City**: San Jose
+
+**What do they do**: Volunteers working under BIPOC-lead accountablity partners (DeBug Silicon Valley, Rapid Response Network, and Sacred Heart Community Services (above)) to bring about racial justice
+
+**What do they need**: [Volunteers for Mutual Aid network in the South Bay](https://docs.google.com/forms/d/1VDRra0HatJM8jjQ6GpmO4dHgQCkPG6M7l-zg27xhVYg/viewform)
+
 ### Second Harvest of Silicon Valley
 
 **County**: San Mateo & Santa Clara
