@@ -58,6 +58,13 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 # Resources
 
+## Setting up Mutual Aid Networks
+
+Mutual Aid is, <q>cooperation for the sake of the common good,</q> and a long established way for communities to help one another in a crisis. 
+
+Congresswoman Alexandria Octavia-Cortez and community organizer Mariame Kaba shared [their notes from a presentation on starting mutual aid networks in your building, block and neighborhood](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyOfapJUOB6Ko2_1iAfIm8ELeIgma21wIt5HoTqP1QXadF01eZc0ySrPW6VtU_veyp?akid=774.784925.1rjSNY&rd=1&t=1).
+
+
 ## By County: 
 [Alameda](#alameda) || [Contra Costa](#contra-costa) || [Marin](#marin) || [Napa](#napa) || [San Francisco](#san-francisco) || [San Mateo](#san-mateo) || [Santa Clara](#santa-clara) || [Solano](#solano) || [Sonoma](#sonoma) 
 
