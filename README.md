@@ -58,10 +58,24 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 # Resources
 
+## Setting up Mutual Aid Networks
+
+Mutual Aid is, <q>cooperation for the sake of the common good,</q> and a long established way for communities to help one another in a crisis. 
+
+Congresswoman Alexandria Octavia-Cortez and community organizer Mariame Kaba shared [their notes from a presentation on starting mutual aid networks in your building, block and neighborhood](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyOfapJUOB6Ko2_1iAfIm8ELeIgma21wIt5HoTqP1QXadF01eZc0ySrPW6VtU_veyp?akid=774.784925.1rjSNY&rd=1&t=1).
+
+## General Links
+
+Go [here](https://www.cdc.gov/coronavirus/2019-ncov/faq.html) for the Centers for Disease Control and Prevention Frequently Asked Questions.
+
+Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx) for the State of California Department of Public Health.
+
 ## By County: 
 [Alameda](#alameda) || [Contra Costa](#contra-costa) || [Marin](#marin) || [Napa](#napa) || [San Francisco](#san-francisco) || [San Mateo](#san-mateo) || [Santa Clara](#santa-clara) || [Solano](#solano) || [Sonoma](#sonoma) 
 
+### There is a shortage of medical supplies at hospitals. If you have extra N95 masks, gloves and other medical supplies, please consider donating them to hospitals. See list in your respective counties. 
 
+### Harbor Freight is donating N95 masks, face shields and gloves to all ERs. If you work at a hospital with a 24 hour emergency room in need of these items, please ask the office in charge of procurement at your hospital to click [here](https://www.harborfreight.com/ppe-request.html?utm_source=Eric_letter_2020_03_22&utm_medium=email&utm_campaign=Eric_letter_2020_03_22&cid=mEmail_sEric_letter_2020_03_22&uid=ae86b028ac46af420e48726f438d22d535b1313ec6d4c4ffe67a85ac0e576372) so you can provide them with the information they'll need to determine if they can make a donation.
 
 ## Alameda
 
@@ -78,18 +92,271 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **Contact information (phone, email)**: Marsh Elementary, Deer Valley High
 
+---
+
+### Contra Costa Regional Medical Center
+
+**County**: Contra Costa
+
+**City**: Martinez
+
+**What do they need help with?** No shortage at the moment
+
+**Contact information (phone, email)**: 2500 Alhambra Ave, Martinez, CA 94553, 925-370-5000
+
+---
+
+### John Muir Medical Center - Walnut Creek Campus
+
+**County**: Contra Costa
+
+**City**: Walnut Creek
+
+**What do they need help with?** Shortage of n95 masks, face shields. Drop off at the front entrance
+
+**Contact information (phone, email)**: 1601 Ygnacio Valley Road, Walnut Creek, CA 94598, 925-939-3000
+
+---
+
+### Kaiser Medical Center - Antioch
+
+**County**: Contra Costa
+
+**City**: Antioch
+
+**What do they need help with?** No shortage at the moment.
+
+**Contact information (phone, email)**: 5601 Deer Valley Road, Antioch, CA 94531, 925-813-6500
+
+---
+
+### Kaiser Medical Center - Richmond
+
+**County**: Contra Costa
+
+**City**: Richmond
+
+**What do they need help with?** Shortage of N95 masks, gloves, cleaning supplies. Drop off at the ER entrance.
+
+**Contact information (phone, email)**: 901 Nevin Avenue, Richmond, CA 94504, 510-307-1500
+
+---
+
+### Kaiser Medical Center - Walnut Creek
+
+**County**: Contra Costa
+
+**City**: Walnut Creek
+
+**What do they need help with?** If you have less than 100 n95 masks, please donate them to the local police and fire stations. If you have more than 100 n95 masks, please email, buy2topay@kp.org
+
+**Contact information (phone, email)**: 1425 South Main St., Walnut Creek, CA 94596, 925-295-4000
+
+---
+
+### John Muir Medical Center - Concord Campus
+
+**County**: Contra Costa
+
+**City**: Concord
+
+**What do they need help with?** Accepting donations n95 masks and isolation gowns. Drop off at the security at the front entrance.
+
+**Contact information (phone, email)**: 2540 East Street, Concord, CA 94524-4110, 925-682-8200
+
+---
+
+### San Ramon Regional Medical Center
+
+**County**: Contra Costa
+
+**City**: San Ramon
+
+**What do they need help with?** No shortages at this time
+
+**Contact information (phone, email)**: 6001 Norris Canyon Road, San Ramon, CA 94583, 925-275-9200
+
+---
+
+### Sutter/Delta Medical Center
+
+**County**: Contra Costa
+
+**City**: Antioch
+
+**What do they need help with?** No shortages at this time
+
+**Contact information (phone, email)**: 3901 Lone Tree Way, Antioch, CA 94509, 925-779-7200
+
 
 
 ## Marin
 
+### Bolinas Community Inc 
+
+**County**: Marin
+
+**City**: Bolinas
+
+**What resource does it provide?** Food
+
+**Contact information (phone, email)**: (415) 868-2128
+
+**Website**:14 Wharf Rd. Bolinas 94924
+
 
 ## Napa
+
+### Queen of the Valley Medical Center
+
+**County**: Napa
+
+**City**: Napa
+
+**What do they need help with?** There is a shortage of N95 masks and gloves. Please consider donating extra N95 masks and gloves. Drop off at the front ER entrance.
+
+**Contact information (phone, email)**: 1000 Trancas St, Napa, CA 94558, 707-252-4411
+
+---
+
+### Adventist Health St. Helena
+
+**County**: Napa
+
+**City**: St. Helena
+
+**What do they need help with?** Shortage unknown at this time
+
+**Contact information (phone, email)**: 10 Woodland Rd, St Helena, CA 94574, 707-963-3511
+
 
 
 ## San Francisco
 
+### UCSF
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** N95 masks, gloves, goggles, face shields and other supplies. Medical students will be collecting supplies on the corner of 18th and Dolores Strees, San Francisco, from 10 a.m to 3 p.m. on Friday, March 20 through Sunday, March 22. Anyone who needs supplies picked up can call or text (925) 323-0089.
+
+**Contact information (phone, email)**: Corner of 18th and Dolores Strees, San Francisco; call or text (925) 323-0089. 
+
+---
+
+### San Francisco Medical Center
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** They need goggles, face shields, hand sanitizer, masks (N95, surgical, and isolation masks), isolation or surgical gowns and wipes. Donations may be mailed to *Kaiser Permanente, 2130 O'Farrell St., San Francisco, CA 94115 Attn: Hospital Command Center* or dropped off at the loading dock, Monday to Friday 6 a.m. to 2:30 p.m at the address above. 
+
+If you are dropping off donations, please call (415) 833-2593 and a staff member will come to accept the donation. If you need to make arrangements after the loading dock closes at 2:30 p.m. contact the hospital operator at (415)833-2000 and you will be contacted within 24 hours to schedule a delivery.
+
+**Contact information (phone, email)**: For dropping off: (415) 833-2593. For further arrangements: (415)833-2000.
+
+---
+
+### [GLIDE](https://www.glide.org/)
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** Donations. They've temporarily closed the dining rooms and suspended the volunteer program to protect public health, but continue to provide to-go meals and other services.
+
+**Contact information (phone, email)**: 415-674-6000, info@glide.org for general; 415-674-6070, development@glide.org for donations
+
+---
+
+### [SF-Marin Food Bank](https://www.sfmfoodbank.org/)
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** Donations and some volunteers for pop-up pantries. They're continuing operations, but reducing the number of volunteers to maintain distance. Every dollar donated is enough for 2 meals, and 94% of donations go directly to their programs.
+
+**Contact information (phone, email)**: 415-282-1900, info@sfmfoodbank.org
+
+---
 
 ## San Mateo
+
+### [Rape Trauma Services](https://www.rapetraumaservices.org/what-we-do/overview.html)
+
+**County**: San Mateo  
+
+**What do they do**: <q>Calls for crisis intervention and accompaniments will be performed via telephone and we will follow up with survivors to make sure they are getting the support they need remotely.</q>
+
+**What do they need help with**: Donations
+
+**Contact information (phone, email)**: 24 Hour Crisis Line (650) 692-7273 
+
+---
+
+### PAMF San Carlos
+
+**County**: San Mateo
+
+**City**: San Carlos
+
+**What do they need help with?** There is a shortage of N95 masks. Please consider donating extra N95 masks. Drop off at urgent care on the first floor of the hospital. 
+
+**Contact information (phone, email)**: 301 Industrial Rd in San Carlos, 650-596-4100 
+
+
+---
+
+### Sequoia Hospital
+
+**County**: San Mateo
+
+**City**: Redwood City
+
+**What do they need help with?** There is a shortage of medical supplies. Please consider donating extra N95 masks and other medical supplies. Drop off at the front door.
+
+**Contact information (phone, email)**: 170 Alameda de las Pulgas, 650-369-5811
+
+---
+
+### Kaiser Permanente 
+
+**County**: San Mateo
+
+**City**: Redwood City
+
+**What do they need help with?** There is a shortage of N95 masks, gloves, goggles, gowns, face shields and hand sanitizers. Please consider donating extra medical supplies. Drop off from 6AM-2:30PM at RWC medical center on the loading dock behind the emergency department right off at Walnut Street at urgent care on the first floor of the hospital. 
+
+**Contact information (phone, email)**: 1100 Veterans Blvd, 650-299-2000
+
+---
+
+### Mills Peninsula Medical Center
+
+**County**: San Mateo
+
+**City**: Burlingame
+
+**What do they need help with?** There is a shortage of N95 masks. Please consider donating extra N95 masks and other medical supplies. Drop off at the main lobby entrance from M-F 7am-5pm, Sat-Sun 7am-noon
+
+**Contact information (phone, email)**: 1501 Trousdale Drive Burlingame, CA 94010, 650-696-5400
+
+---
+
+### Seton Medical Center
+
+**County**: San Mateo
+
+**City**: Daly City
+
+**What do they need help with?** There is a shortage of any medical supplies. Please consider donating extra medical supplies. Drop off at the front of the hospital. 
+
+**Contact information (phone, email)**: 1900 Sullivan Ave in Daly City, 650-992-4000
+
+---
 
 ### Second Harvest of Silicon Valley
 
@@ -102,6 +369,8 @@ Then, you can remove the Bay Area specific information and add info particular t
 **Contact information (phone, email)**: 650-610-0800
 
 **Website**: https://www.shfb.org/
+
+---
 
 ### San Mateo County for Aging and Adult Services
 
@@ -116,7 +385,104 @@ Then, you can remove the Bay Area specific information and add info particular t
 **Website**: https://www.smc-connect.org/locations/san-mateo-county-health-system/aging-and-adult-services
 
 
+
 ## Santa Clara
+
+### [Santa Clara County Public Health](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx) 
+
+**County**: Santa Clara
+
+**City**: San Jose (County Seat)
+
+**What do they do**: Site has updated information and guidance on the county-wide response to novel Coronavirus.
+
+**What do they need help with?**: Follow state-wide shelter-in-place orders. 
+
+---
+
+### [El Camino Hospital](https://www.elcaminohealth.org/newsroom/information-from-el-camino-health-regarding-novel-coronavirus-covid-19)
+
+**County** Santa Clara
+
+**City**: Mountain View and Los Gatos
+
+**What do they do**: Operate two hospitals
+
+**What do they need help with?**: [They are accepting cash and donations of PPE](https://www.elcaminohealth.org/newsroom/information-from-el-camino-health-regarding-novel-coronavirus-covid-19#donate); please contact them before bringing equipment
+
+---
+
+### [Good Samaritan Hospital](https://goodsamsanjose.com/covid-19/index.dot)
+
+**TODO**: Emailed for information on donations
+
+### Kaiser Permamente 
+
+**TODO** Called Kaiser Media Relations office (Matt, 510-987-3900) to request information on PPE donations 
+
+* Santa Clara Medical Center
+* Milpitas Medical Center
+* Santa Teresa Medical Center 
+
+---
+
+### [Stanford Health Care](https://med.stanford.edu/covid19.html)
+
+**TODO** Called office of communications (Lisa Kim, 650-723-6696) with request for information on PPE donations
+
+---
+
+### [Palo Alto Medical Foundation (Sutter Health)](https://www.sutterhealth.org/for-patients/health-alerts/2019-novel-coronavirus)
+
+**TODO** Called Sutter's press office and left message 
+
+---
+
+### Santa Clara County Medical Foundation
+**County**: Santa Clara
+**City**: San Jose
+**What do they do**: Operate Santa Clara Valley Hospital and Clinics, O'Connor Hospital, and St. Louise Regional Hospital 
+**What do they need help with?**: [Donations of PPE](https://vmcfoundation.org/covid19list/); <q>Donations can be delivered to our office between the hours of Monday-Friday 8 a.m. – 5 p.m. and Saturdays and Sunday 10 a.m. – 3 p.m. at 2400 Clove Drive, San Jose (on the campus of Santa Clara Valley Medical Center).  Questions?  Call 408-885-5299 or email vmcfoundation@hhs.sccgov.org.</q>
+
+---
+
+### [Gardner Health Services](https://gardnerhealthservices.org/services/flu-shot-clinic/)
+
+**County**: Santa Clara and Santa Clara
+
+**City**: San Jose
+
+**What do they do**: <q>Gardner Health Services is dedicated to improving the health status of the communities we serve, especially the disenfranchised, disadvantaged and most vulnerable members.</q>
+
+**Note**: Gardner is not cancelling existing appointments
+
+**What do they need help with?**: [Money](https://gardnerhealthservices.org/support-gardner/) **TODO**: sent email asking what they need, besides money
+
+---
+
+### Sacred Heart Community Service
+
+**County**: Santa Clara
+
+**City**: San Jose, Santa Clara, Campbell 
+
+**What do they do**: <q>Our mission is to build a community free from poverty by creating hope, opportunity, and action. We provide essential services, work together to improve our lives, advocate for justice, and inspire our community to love, serve, and share.</q>
+
+**What do they need help with?**: [Donations](https://donate.sacredheartcs.org/give/53813/#!/donation/checkout); if you are White and wish to volunteer, please go through SURJ (below)
+
+---
+
+### [Showing Up for Racial Justice (SURJ)](https://www.surjatsacredheart.org/)
+
+**County**: Santa Clara
+
+**City**: San Jose
+
+**What do they do**: Volunteers working under BIPOC-lead accountablity partners (DeBug Silicon Valley, Rapid Response Network, and Sacred Heart Community Services (above)) to bring about racial justice
+
+**What do they need help with?**: [Volunteers for Mutual Aid network in the South Bay](https://docs.google.com/forms/d/1VDRra0HatJM8jjQ6GpmO4dHgQCkPG6M7l-zg27xhVYg/viewform)
+
+---
 
 ### Second Harvest of Silicon Valley
 
@@ -148,17 +514,69 @@ Go [here](https://us7.campaign-archive.com/home/?u=5bb3b762047926b143fbbee55&id=
 
 Go [here](https://www.cityofpaloalto.org/services/public_safety/plans_and_information/coronavirus/support_services.asp) to get connected with Palo Alto community based organizations, resources and ways to volunteer and help.
 
-Go [here](https://www.cdc.gov/coronavirus/2019-ncov/faq.html) for the Centers for Disease Control and Prevention Frequently Asked Questions.
-
-Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx) for the State of California Department of Public Health.
-
-Go [here](https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/frequently-asked-questions.aspx) for the Santa Clara County Public Health Department Frequently Asked Questions.
-
 [Source](https://medium.com/paloaltoconnect/staying-connected-through-information-e34f16f98753)
+
+---
+
+### Santa Clara Valley Medical Foundation
+
+**County**: Santa Clara
+
+**City**: San Jose
+
+**What do they need help with?** They need N95 masks, hand sanitizer, goggles, gloves, [and more](https://vmcfoundation.org/covid19list/).Donations can be delivered to their office between the hours of Monday-Friday 8 a.m. – 5 p.m. and Saturdays and Sunday 10 a.m. – 3 p.m. at 2400 Clove Drive, San Jose (on the campus of Santa Clara Valley Medical Center).   
+
+**Contact information (phone, email)**: 2400 Clove Drive, San Jose, (408) 885-5299 or email vmcfoundation@hhs.sccgov.org.
+
+**Website**: https://vmcfoundation.org/
 
 ## Solano
 
 
 ## Sonoma
 
+### Healdsburg District Hospital
 
+**County**: Sonoma
+
+**City**: Healdsburg
+
+**What do they need help with?** There is a shortage of N95 masks. Please consider donating extra N95 masks. Drop off at the ER entrance; no need to call in advance.
+
+**Contact information (phone, email)**: 1375 University Ave, Healdsburg, CA 95448, 707-431-6500
+
+---
+
+### Kaiser Santa Rosa
+
+**County**: Sonoma
+
+**City**: Santa Rosa
+
+**What do they need help with?** There is a shortage of regular surgical masks, and they're accepting N95 masks, too. Please deliver donations directly to the Command Center, located in the West Conference Room past the discharge pharmacy from the garage entrance.
+
+**Contact information (phone, email)**: 401 Bicentennial Way, Santa Rosa, CA 95403, 707-576-4000
+
+---
+
+### Santa Rosa Memorial Hospital
+
+**County**: Sonoma
+
+**City**: Santa Rosa
+
+**What do they need help with?** Please consider donating extra masks. Drop off at the main entrance, during visiting hours (11am-8pm).
+
+**Contact information (phone, email)**: 1165 Montgomery Drive, Santa Rosa, CA 95405, 707-546-3210
+
+---
+
+### Petaluma Valley Hospital
+
+**County**: Sonoma
+
+**City**: Petaluma
+
+**What do they need help with?** There is a shortage of masks. Please drop off extra masks at the main entrance, during visiting hours (11am-8:30pm).
+
+**Contact information (phone, email)**: 400 North McDowell Boulevard, Petaluma, CA 94954, 707-778-1111
