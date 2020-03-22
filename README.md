@@ -236,8 +236,33 @@ Congresswoman Alexandria Octavia-Cortez and community organizer Mariame Kaba sha
 
 If you are dropping off donations, please call (415) 833-2593 and a staff member will come to accept the donation. If you need to make arrangements after the loading dock closes at 2:30 p.m. contact the hospital operator at (415)833-2000 and you will be contacted within 24 hours to schedule a delivery.
 
-**Contact information (phone, email)**: For dropping off: (415) 833-2593. For further arrangements: (415)833-2000. 
+**Contact information (phone, email)**: For dropping off: (415) 833-2593. For further arrangements: (415)833-2000.
 
+---
+
+### [GLIDE](https://www.glide.org/)
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** Donations. They've temporarily closed the dining rooms and suspended the volunteer program to protect public health, but continue to provide to-go meals and other services.
+
+**Contact information (phone, email)**: 415-674-6000, info@glide.org for general; 415-674-6070, development@glide.org for donations
+
+---
+
+### [SF-Marin Food Bank](https://www.sfmfoodbank.org/)
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** Donations and some volunteers for pop-up pantries. They're continuing operations, but reducing the number of volunteers to maintain distance. Every dollar donated is enough for 2 meals, and 94% of donations go directly to their programs.
+
+**Contact information (phone, email)**: 415-282-1900, info@sfmfoodbank.org
+
+---
 
 ## San Mateo
 
@@ -453,4 +478,48 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 
 ## Sonoma
 
+### Healdsburg District Hospital
 
+**County**: Sonoma
+
+**City**: Healdsburg
+
+**What do they need help with?** There is a shortage of N95 masks. Please consider donating extra N95 masks. Drop off at the ER entrance; no need to call in advance.
+
+**Contact information (phone, email)**: 1375 University Ave, Healdsburg, CA 95448, 707-431-6500
+
+---
+
+### Kaiser Santa Rosa
+
+**County**: Sonoma
+
+**City**: Santa Rosa
+
+**What do they need help with?** There is a shortage of regular surgical masks, and they're accepting N95 masks, too. Please deliver donations directly to the Command Center, located in the West Conference Room past the discharge pharmacy from the garage entrance.
+
+**Contact information (phone, email)**: 401 Bicentennial Way, Santa Rosa, CA 95403, 707-576-4000
+
+---
+
+### Santa Rosa Memorial Hospital
+
+**County**: Sonoma
+
+**City**: Santa Rosa
+
+**What do they need help with?** Please consider donating extra masks. Drop off at the main entrance, during visiting hours (11am-8pm).
+
+**Contact information (phone, email)**: 1165 Montgomery Drive, Santa Rosa, CA 95405, 707-546-3210
+
+---
+
+### Petaluma Valley Hospital
+
+**County**: Sonoma
+
+**City**: Petaluma
+
+**What do they need help with?** There is a shortage of masks. Please drop off extra masks at the main entrance, during visiting hours (11am-8:30pm).
+
+**Contact information (phone, email)**: 400 North McDowell Boulevard, Petaluma, CA 94954, 707-778-1111
