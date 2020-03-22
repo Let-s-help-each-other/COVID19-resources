@@ -439,9 +439,13 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 ---
 
 ### Santa Clara County Medical Foundation
+
 **County**: Santa Clara
+
 **City**: San Jose
+
 **What do they do**: Operate Santa Clara Valley Hospital and Clinics, O'Connor Hospital, and St. Louise Regional Hospital 
+
 **What do they need help with?**: [Donations of PPE](https://vmcfoundation.org/covid19list/); <q>Donations can be delivered to our office between the hours of Monday-Friday 8 a.m. – 5 p.m. and Saturdays and Sunday 10 a.m. – 3 p.m. at 2400 Clove Drive, San Jose (on the campus of Santa Clara Valley Medical Center).  Questions?  Call 408-885-5299 or email vmcfoundation@hhs.sccgov.org.</q>
 
 ---
@@ -495,6 +499,8 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 **Contact information (phone, email)**: 650-610-0800
 
 **Website**: https://www.shfb.org/
+
+---
 
 ### City of Palo Alto
 
