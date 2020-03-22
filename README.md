@@ -378,6 +378,8 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 
 **What do they need help with?**: Follow state-wide shelter-in-place orders. 
 
+---
+
 ### [El Camino Hospital](https://www.elcaminohealth.org/newsroom/information-from-el-camino-health-regarding-novel-coronavirus-covid-19)
 
 **County** Santa Clara
@@ -386,7 +388,9 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 
 **What do they do**: Operate two hospitals
 
-**What do they need**: [They are accepting cash and donations of PPE](https://www.elcaminohealth.org/newsroom/information-from-el-camino-health-regarding-novel-coronavirus-covid-19#donate); please contact them before bringing equipment
+**What do they need help with?**: [They are accepting cash and donations of PPE](https://www.elcaminohealth.org/newsroom/information-from-el-camino-health-regarding-novel-coronavirus-covid-19#donate); please contact them before bringing equipment
+
+---
 
 ### [Good Samaritan Hospital](https://goodsamsanjose.com/covid-19/index.dot)
 
@@ -400,19 +404,27 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 * Milpitas Medical Center
 * Santa Teresa Medical Center 
 
+---
+
 ### [Stanford Health Care](https://med.stanford.edu/covid19.html)
 
 **TODO** Called office of communications (Lisa Kim, 650-723-6696) with request for information on PPE donations
+
+---
 
 ### [Palo Alto Medical Foundation (Sutter Health)](https://www.sutterhealth.org/for-patients/health-alerts/2019-novel-coronavirus)
 
 **TODO** Called Sutter's press office and left message 
 
+---
+
 ### Santa Clara County Medical Foundation
 **County**: Santa Clara
 **City**: San Jose
 **What do they do**: Operate Santa Clara Valley Hospital and Clinics, O'Connor Hospital, and St. Louise Regional Hospital 
-**What do they need help with**: [Donations of PPE](https://vmcfoundation.org/covid19list/); <q>Donations can be delivered to our office between the hours of Monday-Friday 8 a.m. – 5 p.m. and Saturdays and Sunday 10 a.m. – 3 p.m. at 2400 Clove Drive, San Jose (on the campus of Santa Clara Valley Medical Center).  Questions?  Call 408-885-5299 or email vmcfoundation@hhs.sccgov.org.</q>
+**What do they need help with?**: [Donations of PPE](https://vmcfoundation.org/covid19list/); <q>Donations can be delivered to our office between the hours of Monday-Friday 8 a.m. – 5 p.m. and Saturdays and Sunday 10 a.m. – 3 p.m. at 2400 Clove Drive, San Jose (on the campus of Santa Clara Valley Medical Center).  Questions?  Call 408-885-5299 or email vmcfoundation@hhs.sccgov.org.</q>
+
+---
 
 ### [Gardner Health Services](https://gardnerhealthservices.org/services/flu-shot-clinic/)
 
@@ -424,7 +436,9 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 
 **Note**: Gardner is not cancelling existing appointments
 
-**What do they need**: [Money](https://gardnerhealthservices.org/support-gardner/) **TODO**: sent email asking what they need, besides money
+**What do they need help with?**: [Money](https://gardnerhealthservices.org/support-gardner/) **TODO**: sent email asking what they need, besides money
+
+---
 
 ### Sacred Heart Community Service
 
@@ -434,7 +448,9 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 
 **What do they do**: <q>Our mission is to build a community free from poverty by creating hope, opportunity, and action. We provide essential services, work together to improve our lives, advocate for justice, and inspire our community to love, serve, and share.</q>
 
-**What do they need**: [Donations](https://donate.sacredheartcs.org/give/53813/#!/donation/checkout); if you are White and wish to volunteer, please go through SURJ (below)
+**What do they need help with?**: [Donations](https://donate.sacredheartcs.org/give/53813/#!/donation/checkout); if you are White and wish to volunteer, please go through SURJ (below)
+
+---
 
 ### [Showing Up for Racial Justice (SURJ)](https://www.surjatsacredheart.org/)
 
@@ -444,7 +460,9 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 
 **What do they do**: Volunteers working under BIPOC-lead accountablity partners (DeBug Silicon Valley, Rapid Response Network, and Sacred Heart Community Services (above)) to bring about racial justice
 
-**What do they need**: [Volunteers for Mutual Aid network in the South Bay](https://docs.google.com/forms/d/1VDRra0HatJM8jjQ6GpmO4dHgQCkPG6M7l-zg27xhVYg/viewform)
+**What do they need help with?**: [Volunteers for Mutual Aid network in the South Bay](https://docs.google.com/forms/d/1VDRra0HatJM8jjQ6GpmO4dHgQCkPG6M7l-zg27xhVYg/viewform)
+
+---
 
 ### Second Harvest of Silicon Valley
 
