@@ -189,13 +189,27 @@ Then, you can remove the Bay Area specific information and add info particular t
 
 **What do they need help with?**: Follow state-wide shelter-in-place orders. 
 
+### [El Camino Hospital](https://www.elcaminohealth.org/newsroom/information-from-el-camino-health-regarding-novel-coronavirus-covid-19)
+
+**County** Santa Clara
+
+**City**: Mountain View and Los Gatos
+
+**What do they do**: Operate two hospitals
+
+**What do they need**: [They are accepting cash and donations of PPE](https://www.elcaminohealth.org/newsroom/information-from-el-camino-health-regarding-novel-coronavirus-covid-19#donate); please contact them before bringing equipment
+
+### [Good Samaritan Hospital](https://goodsamsanjose.com/covid-19/index.dot)
+
+**TODO**: Emailed for information on donations
+
 ### Kaiser Permamente 
 
 **TODO** Called Kaiser Media Relations office (Matt, 510-987-3900) to request information on PPE donations 
 
-Santa Clara Medical Center
-Milpitas Medical Center
-Santa Teresa Medical Center 
+* Santa Clara Medical Center
+* Milpitas Medical Center
+* Santa Teresa Medical Center 
 
 ### [Stanford Health Care](https://med.stanford.edu/covid19.html)
 
