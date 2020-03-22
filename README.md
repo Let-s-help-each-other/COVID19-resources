@@ -70,6 +70,8 @@ Congresswoman Alexandria Octavia-Cortez and community organizer Mariame Kaba sha
 
 ### There is a shortage of medical supplies at hospitals. If you have extra N95 masks, gloves and other medical supplies, please consider donating them to hospitals. See list in your respective counties. 
 
+### Harbor Freight is donating N95 masks, face shields and gloves to all ERs. If you work at a hospital with a 24 hour emergency room in need of these items, please ask the office in charge of procurement at your hospital to click [here] (https://www.harborfreight.com/ppe-request.html?utm_source=Eric_letter_2020_03_22&utm_medium=email&utm_campaign=Eric_letter_2020_03_22&cid=mEmail_sEric_letter_2020_03_22&uid=ae86b028ac46af420e48726f438d22d535b1313ec6d4c4ffe67a85ac0e576372) so you can provide them with the information they'll need to determine if they can make a donation.
+
 ## Alameda
 
 
