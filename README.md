@@ -70,6 +70,8 @@ Go [here](https://www.cdc.gov/coronavirus/2019-ncov/faq.html) for the Centers fo
 
 Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx) for the State of California Department of Public Health.
 
+### There is a severe blood shortage. Please go to the [Red Cross](https://www.redcross.org/) to book an appointment.  
+
 ## By County: 
 [Alameda](#alameda) || [Contra Costa](#contra-costa) || [Marin](#marin) || [Napa](#napa) || [San Francisco](#san-francisco) || [San Mateo](#san-mateo) || [Santa Clara](#santa-clara) || [Solano](#solano) || [Sonoma](#sonoma) 
 
