@@ -553,12 +553,6 @@ The best way to contribute is to make a pull request. Here's how:
 6. The title of your pull request is automatically the name of the change you proposed in the previous page. You can change it; write more description; or cancel. 
 7. Once you're done writing, click on *Create pull request*. 
 
-# Other cities and areas
-
-To do something similar for other cities/areas/states, fork this repository by clicking on the Fork button on the top right corner, right opposite the repository name. This creates a copy of the repo in your own account. 
-
-Then, you can remove the Bay Area specific information and add info particular to your own area. 
-
 ## Templates
 
 ## Template for non-profit organization:
@@ -588,3 +582,9 @@ Then, you can remove the Bay Area specific information and add info particular t
 **Contact information (phone, email)**: 
 
 **Website**: 
+
+# Other cities and areas
+
+To do something similar for other cities/areas/states, fork this repository by clicking on the Fork button on the top right corner, right opposite the repository name. This creates a copy of the repo in your own account. 
+
+Then, you can remove the Bay Area specific information and add info particular to your own area. 
