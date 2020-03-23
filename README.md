@@ -8,54 +8,6 @@ San Francisco Bay Area edition
 4. [Other cities/areas/states](#other-cities-and-areas)
 
 
-# How to contribute
-
-The best way to contribute is to make a pull request. Here's how: 
-
-1. Click on the edit button on the top right corner of the README.md
-2. Make your changes to the resources: follow the [template](#templates) for how to add resources in the right section. You might also want to refer to the [guide on markdown](https://guides.github.com/features/mastering-markdown/) which tells you how to use formatting. This will make it much easier for people to find the resources they need. You can also click on *Preview changes* tab to see how your changes will look.  
-3. Make a simple (maybe less than 5 words) commit message in the *Commit changes* section and an optional description below that. 
-4. Ensure you pick the **Create a new branch** option below! 
-5. Then click on *Propose file change*. This leads you to the *Open a pull request* page. 
-6. The title of your pull request is automatically the name of the change you proposed in the previous page. You can change it; write more description; or cancel. 
-7. Once you're done writing, click on *Create pull request*. 
-
-# Other cities and areas
-
-To do something similar for other cities/areas/states, fork this repository by clicking on the Fork button on the top right corner, right opposite the repository name. This creates a copy of the repo in your own account. 
-
-Then, you can remove the Bay Area specific information and add info particular to your own area. 
-
-## Templates
-
-## Template for non-profit organization:
-
-### <Name of the resource> 
-
-**County**: <Insert county> 
-
-**City**: <Which city/cities?>
-
-**What do they need help with?** <Donations? Supplies? Volunteering?>
-
-**Contact information (phone, email)**: 
-
-**Website**: 
-
-## Template for resources:
-
-### <Name of the resource> 
-
-**County**: <Insert county> 
-
-**City**: <Which city/cities?>
-
-**What resource does it provide?** <Food? Shelter? Delivery?>
-
-**Contact information (phone, email)**: 
-
-**Website**: 
-
 # Resources
 
 ## Setting up Mutual Aid Networks
@@ -588,3 +540,51 @@ Go [here](https://www.cityofpaloalto.org/services/public_safety/plans_and_inform
 **What do they need help with?** There is a shortage of masks. Please drop off extra masks at the main entrance, during visiting hours (11am-8:30pm).
 
 **Contact information (phone, email)**: 400 North McDowell Boulevard, Petaluma, CA 94954, 707-778-1111
+
+# How to contribute
+
+The best way to contribute is to make a pull request. Here's how: 
+
+1. Click on the edit button on the top right corner of the README.md
+2. Make your changes to the resources: follow the [template](#templates) for how to add resources in the right section. You might also want to refer to the [guide on markdown](https://guides.github.com/features/mastering-markdown/) which tells you how to use formatting. This will make it much easier for people to find the resources they need. You can also click on *Preview changes* tab to see how your changes will look.  
+3. Make a simple (maybe less than 5 words) commit message in the *Commit changes* section and an optional description below that. 
+4. Ensure you pick the **Create a new branch** option below! 
+5. Then click on *Propose file change*. This leads you to the *Open a pull request* page. 
+6. The title of your pull request is automatically the name of the change you proposed in the previous page. You can change it; write more description; or cancel. 
+7. Once you're done writing, click on *Create pull request*. 
+
+# Other cities and areas
+
+To do something similar for other cities/areas/states, fork this repository by clicking on the Fork button on the top right corner, right opposite the repository name. This creates a copy of the repo in your own account. 
+
+Then, you can remove the Bay Area specific information and add info particular to your own area. 
+
+## Templates
+
+## Template for non-profit organization:
+
+### <Name of the resource> 
+
+**County**: <Insert county> 
+
+**City**: <Which city/cities?>
+
+**What do they need help with?** <Donations? Supplies? Volunteering?>
+
+**Contact information (phone, email)**: 
+
+**Website**: 
+
+## Template for resources:
+
+### <Name of the resource> 
+
+**County**: <Insert county> 
+
+**City**: <Which city/cities?>
+
+**What resource does it provide?** <Food? Shelter? Delivery?>
+
+**Contact information (phone, email)**: 
+
+**Website**: 
