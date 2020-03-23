@@ -192,7 +192,7 @@ Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.
 
 
 
-## Marin
+## [Marin](https://www.marinhhs.org/resources/Emergency/Hospitals)
 
 ### Bolinas Community Inc 
 
@@ -205,6 +205,46 @@ Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.
 **Contact information (phone, email)**: (415) 868-2128
 
 **Website**:14 Wharf Rd. Bolinas 94924
+
+---
+
+### Marin General Hospital
+
+**County**: Marin
+
+**City**: Greenbrae
+
+**What do they need help with?** Accepting donations for PPE (personal protective equipment), especially masks. Drop off donations, Monday-Friday, 7am-3pm, at:
+
+1300 South Eliseo Drive
+Suite 101
+Greenbrae, CA
+
+**Contact information (phone, email)**: 415-925-7000 for the hospital; 415-473-7191 or the [website](https://coronavirus.marinhhs.org/) for non-medical questions about COVID-19
+
+---
+
+### Novato Community Hospital
+
+**County**: Marin
+
+**City**: Novato
+
+**What do they need help with?** There is a shortage of N95 masks and sterile (sealed) gowns. Please drop off unused PPE, especially masks, either at the ER (open 24/7), or at the main desk (open 6am-9pm on weekdays, and 6am-7pm on weekends).
+
+**Contact information (phone, email)**: 180 Rowland Way, Novato, CA 94945, 415-209-1300
+
+---
+
+### Kaiser San Rafael
+
+**County**: Marin
+
+**City**: San Rafael
+
+**What do they need help with?** Waiting to hear back, but given the N95 shortages reported elsewhere, they're almost certainly accepting masks.
+
+**Contact information (phone, email)**: 99 Montecillo Road, San Rafael, CA 94903, 415-444-2000
 
 
 ## Napa
@@ -541,7 +581,7 @@ Go [here](https://www.cityofpaloalto.org/services/public_safety/plans_and_inform
 ## Solano
 
 
-## Sonoma
+## [Sonoma](https://sonomacounty.ca.gov/Public-Safety/Hospitals/)
 
 ### Healdsburg District Hospital
 
@@ -563,7 +603,7 @@ Go [here](https://www.cityofpaloalto.org/services/public_safety/plans_and_inform
 
 **What do they need help with?** There is a shortage of regular surgical masks, and they're accepting N95 masks, too. Please deliver donations directly to the Command Center, located in the West Conference Room past the discharge pharmacy from the garage entrance.
 
-**Contact information (phone, email)**: 401 Bicentennial Way, Santa Rosa, CA 95403, 707-576-4000
+**Contact information (phone, email)**: 401 Bicentennial Way, Santa Rosa, CA 95403, 707-393-4000
 
 ---
 
