@@ -1,11 +1,11 @@
 # COVID-19-resources
 San Francisco Bay Area edition
 
-# Table of contents
-1. [How to contribute](#how-to-contribute)
-2. [Other cities/areas/states](#other-cities-and-areas)
+# Table of contents 
+1. [Resources](#resources)
+2. [How to contribute](#how-to-contribute)
 3. [Templates](#templates) 
-4. [Resources](#resources)
+4. [Other cities/areas/states](#other-cities-and-areas)
 
 
 # How to contribute
