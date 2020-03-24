@@ -33,6 +33,113 @@ Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.
 
 ## Alameda
 
+### Alameda Hospital
+
+**County**: Alameda
+
+**City**: Alameda
+
+**What do they need help with?** 
+
+**Contact information (phone, email)**: 2070 Clinton Ave, Alameda, CA 94501, (510) 522-3700
+
+---
+
+### Alta Bates Summit Medical Center
+
+**County**: Alameda
+
+**City**: Oakland
+
+**What do they need help with?** 
+
+**Contact information (phone, email)**: 350 Hawthorne Ave Oakland, CA 94609, (510) 655-4000
+
+---
+
+### Highland Hospital
+
+**County**: Alameda
+
+**City**: Oakland
+
+**What do they need help with?** 
+
+**Contact information (phone, email)**: 1411 E 31st St, Oakland, CA 94602, (510) 437-4800
+
+---
+
+### Kaiser Permanente Medical Center - Oakland
+
+**County**: Alameda
+
+**City**: Oakland
+
+**What do they need help with?** 
+
+**Contact information (phone, email)**: 3600 Broadway, Oakland, CA 94611, 510-752-1000
+
+---
+
+### Kaiser Permanente Medical Center - Fremont
+
+**County**: Alameda
+
+**City**: Fremont
+
+**What do they need help with?** 
+
+**Contact information (phone, email)**: 39400 Paseo Padre Parkway, Fremont, CA 94538, 510-248-3000
+
+---
+
+### Kindred Hospital San Francisco Bay Area
+
+**County**: Alameda
+
+**City**: San Leandro
+
+**What do they need help with?** 
+
+**Contact information (phone, email)**: 2800 Benedict Dr, San Leandro, CA 94577, (510) 357-8300
+
+---
+
+### Livermore VA Hospital
+
+**County**: Alameda
+
+**City**: Livermore
+
+**What do they need help with?** 
+
+**Contact information (phone, email)**: 4951 Arroyo Rd, Livermore, CA 94550, (925) 373-4700
+
+---
+
+### Oakland Medical Center
+
+**County**: Alameda
+
+**City**: Oakland
+
+**What do they need help with?** 
+
+**Contact information (phone, email)**: 275 W MacArthur Blvd, Oakland, CA 94611, (510) 752-1000
+
+---
+
+### St. Rose Hospital
+
+**County**: Alameda
+
+**City**: Hayward
+
+**What do they need help with?** 
+
+**Contact information (phone, email)**: 27200 Calaroga Ave, Hayward, CA 94545, (510) 264-4000
+
+---
 
 ## Contra Costa
 
