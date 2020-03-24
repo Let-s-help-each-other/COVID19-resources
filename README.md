@@ -240,7 +240,7 @@ Donations may be mailed to *Kaiser Permanente, 2130 O'Farrell St., San Francisco
 If you are dropping off donations, please call (415) 833-2593 and a staff member will come to accept the donation. 
 If you need to make arrangements after the loading dock closes at 2:30 p.m. contact the hospital operator at (415)833-2000 and you will be contacted within 24 hours to schedule a delivery.
 
-**Contact information (phone, email)**: For dropping off: (415) 833-2593. For further arrangements: (415)833-2000.
+**Contact information (phone, email)**: For dropping off: (415) 833-2593. For further arrangements:(415)833-2000.
 
 ---
 
@@ -313,7 +313,7 @@ Sign up on the volunteer list (volunteers not needed at this time, but be on the
 
 Seeking donations to provide more food for students [here] https://www.sfusd.edu/services/health-wellness/nutrition-school-meals/donate
 
-**Contact information (phone, email)**:schoollunch@sfusd.edu; 415-749-3604
+**Contact information (phone, email)**:schoollunch@sfusd.edu, 415-749-3604
 
 ---
 
