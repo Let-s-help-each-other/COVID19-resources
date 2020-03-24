@@ -240,7 +240,7 @@ Donations may be mailed to *Kaiser Permanente, 2130 O'Farrell St., San Francisco
 If you are dropping off donations, please call (415) 833-2593 and a staff member will come to accept the donation. 
 If you need to make arrangements after the loading dock closes at 2:30 p.m. contact the hospital operator at (415)833-2000 and you will be contacted within 24 hours to schedule a delivery.
 
-**Contact information (phone, email)**: For dropping off: (415) 833-2593. For further arrangements:(415)833-2000.
+**Contact information (phone, email)**: For dropping off: (415) 833-2593. For further arrangements: (415)833-2000.
 
 ---
 
@@ -265,7 +265,7 @@ UCSF Benioff Children’s Hospital Oakland
 747 52nd St., Oakland
 Ambassador Desk
 
-Monetary donations for research and supplies [here] (https://giving.ucsf.edu/coronavirus)
+Monetary donations for research and supplies [here](https://giving.ucsf.edu/coronavirus)
 
 **Contact information (phone, email)**: CovidPPEdonations@ucsf.edu.
 Industry Donations: Dean.Shehu@ucsf.edu 
@@ -283,9 +283,9 @@ Personal Protective Equipment (goggles, face shields, hand sanitizer, masks (N95
 
 Mail to: Kaiser Permanente, 2130 O'Farrell St., San Francisco, CA 94115 Attn: Hospital Command Center 
 Drop Off at the loading dock Monday to Friday 6 a.m. to 2:30 p.m at 2130 O'Farrell St. 
-If you are dropping off donations, please call (415) 833-2593 and a staff member will come to accept the donation. 
+If you are dropping off donations, please call (415)833-2593 and a staff member will come to accept the donation. 
 
-**Contact information (phone, email)**: (415)833-2000 
+**Contact information (phone, email)**:(415)833-2000 
 
 ---
 
@@ -298,7 +298,7 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 **What do they need help with?** 
 Volunteers at the pop-up pantries citywide. Sign up for a shift [here](https://www.sfmfoodbank.org/community-volunteer-support/)
 
-**Contact information (phone, email)**:415-282-1900, info@sfmfoodbank.org
+**Contact information (phone, email)**: 415-282-1900, info@sfmfoodbank.org
 
 ---
 
@@ -313,7 +313,7 @@ Sign up on the volunteer list (volunteers not needed at this time, but be on the
 
 Seeking donations to provide more food for students [here] https://www.sfusd.edu/services/health-wellness/nutrition-school-meals/donate
 
-**Contact information (phone, email)**:schoollunch@sfusd.edu, 415-749-3604
+**Contact information (phone, email)**: schoollunch@sfusd.edu, 415-749-3604
 
 ---
 
@@ -327,15 +327,9 @@ Seeking donations to provide more food for students [here] https://www.sfusd.edu
 Tents! Homeless folks are the most at-risk for contracting COVID-19. In a time of social distancing, self-quarantining, and shelter-in-place orders, and with limited sanitation facilities, a tent is an unhoused person’s only line of defense against COVID-19 infection. Tents are needed now more than ever. You can order tents online and mail directly to the addresses below.
 
 **Contact information (phone, email)**: 
-Brian Edwards
-674 Hayes St
-San Francisco, CA 94102
-415.967.3911
+Brian Edwards, 674 Hayes St, San Francisco, CA 94102, 415.967.3911
 
-Christin Evans
-632 Ashbury St
-San Francisco, CA 94117
-510.459.5451
+Christin Evans, 632 Ashbury St, San Francisco, CA 94117, 510.459.5451
 
 ---
 
