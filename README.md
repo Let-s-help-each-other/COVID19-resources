@@ -233,9 +233,12 @@ Greenbrae, CA
 
 **City**: San Francisco
 
-**What do they need help with?** They need goggles, face shields, hand sanitizer, masks (N95, surgical, and isolation masks), isolation or surgical gowns and wipes. Donations may be mailed to *Kaiser Permanente, 2130 O'Farrell St., San Francisco, CA 94115 Attn: Hospital Command Center* or dropped off at the loading dock, Monday to Friday 6 a.m. to 2:30 p.m at the address above. 
+**What do they need help with?** They need goggles, face shields, hand sanitizer, masks (N95, surgical, and isolation masks), isolation or surgical gowns and wipes. 
 
-If you are dropping off donations, please call (415) 833-2593 and a staff member will come to accept the donation. If you need to make arrangements after the loading dock closes at 2:30 p.m. contact the hospital operator at (415)833-2000 and you will be contacted within 24 hours to schedule a delivery.
+Donations may be mailed to *Kaiser Permanente, 2130 O'Farrell St., San Francisco, CA 94115 Attn: Hospital Command Center* or dropped off at the loading dock, Monday to Friday 6 a.m. to 2:30 p.m at the address above. 
+
+If you are dropping off donations, please call (415) 833-2593 and a staff member will come to accept the donation. 
+If you need to make arrangements after the loading dock closes at 2:30 p.m. contact the hospital operator at (415)833-2000 and you will be contacted within 24 hours to schedule a delivery.
 
 **Contact information (phone, email)**: For dropping off: (415) 833-2593. For further arrangements: (415)833-2000.
 
@@ -293,9 +296,9 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 **City**: San Francisco
 
 **What do they need help with?** 
-Volunteers at the pop-up pantries citywide. Sign up for a shift [here] (https://www.sfmfoodbank.org/community-volunteer-support/)
+Volunteers at the pop-up pantries citywide. Sign up for a shift [here](https://www.sfmfoodbank.org/community-volunteer-support/)
 
-**Contact information (phone, email)**:  415-282-1900; info@sfmfoodbank.org
+**Contact information (phone, email)**:415-282-1900, info@sfmfoodbank.org
 
 ---
 
@@ -306,17 +309,15 @@ Volunteers at the pop-up pantries citywide. Sign up for a shift [here] (https://
 **City**: San Francisco
 
 **What do they need help with?** 
-Sign up on the volunteer list (volunteers not needed at this time, but be on the list to be on-call if they need new people) Sign up for a shift here: 
+Sign up on the volunteer list (volunteers not needed at this time, but be on the list to be on-call if they need new people) Sign up for a shift [here] https://www.sfmfoodbank.org/community-volunteer-support/
 
-https://www.sfmfoodbank.org/community-volunteer-support/
-Seeking donations to provide more food for students:
-https://www.sfusd.edu/services/health-wellness/nutrition-school-meals/donate
+Seeking donations to provide more food for students [here] https://www.sfusd.edu/services/health-wellness/nutrition-school-meals/donate
 
 **Contact information (phone, email)**:schoollunch@sfusd.edu; 415-749-3604
 
 ---
 
-### Coalition on Homelessness (San Francisco
+### Coalition on Homelessness, San Francisco
 
 **County**: San Francisco
 
@@ -344,7 +345,7 @@ San Francisco, CA 94117
 
 **City**: San Francisco
 
-**What do they need help with?** Monetary donations to help small businesses: https://www.gofundme.com/f/help-save-sf-small-businesses-during-shutdown
+**What do they need help with?** Monetary donations to help small businesses [here] (https://www.gofundme.com/f/help-save-sf-small-businesses-during-shutdown)
 
 **Contact**: info@sfcdma.org 
 
