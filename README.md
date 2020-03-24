@@ -420,7 +420,12 @@ Sign up on the volunteer list (volunteers not needed at this time, but be on the
 
 Seeking donations to provide more food for students [here] https://www.sfusd.edu/services/health-wellness/nutrition-school-meals/donate
 
+**What do they provide?** 
+Free meals during the COVIF-19 school closures from M-F 9-10am locations[here] https://www.sfusd.edu/services/health-wellness/nutrition-school-meals
+
 **Contact information (phone, email)**: schoollunch@sfusd.edu, 415-749-3604
+
+https://www.sfusd.edu/services/health-wellness/nutrition-school-meals
 
 ---
 
