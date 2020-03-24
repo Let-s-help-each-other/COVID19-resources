@@ -776,6 +776,64 @@ Go [here](https://www.cityofpaloalto.org/services/public_safety/plans_and_inform
 
 ## Solano
 
+### Kaiser Permanente Vallejo Medical Center
+
+**County**: Solano
+
+**City**: Vallejo
+
+**What do they need help with?** No needs at this time
+
+**Contact information (phone, email)**: 975 Sereno Drive, Vallejo, CA 94589, (707) 651-1000
+
+---
+
+### Kaiser Permanente Vacaville Medical Center
+
+**County**: Solano
+
+**City**: Vacaville
+
+**What do they need help with?** No needs at this time
+
+**Contact information (phone, email)**: 1 Quality Drive, Vacaville, CA 95688, (707) 624-4000
+
+---
+
+### NorthBay Medical Center
+
+**County**: Solano
+
+**City**: Fairfield
+
+**What do they need help with?** No needs at this time
+
+**Contact information (phone, email)**:  1200 B. Gale Wilson Blvd., Fairfield, CA 94533, 707-646-3154
+
+---
+
+### NorthBay VacaValley Hospital
+
+**County**: Solano
+
+**City**: Vacaville
+
+**What do they need help with?** No needs at this time
+
+**Contact information (phone, email)**:  1000 Nut Tree Road, Vacaville, CA 95687, (707) 624-7000
+
+---
+
+### Sutter Solano Medical Center
+
+**County**: Solano
+
+**City**: Vallejo
+
+**What do they need help with?** No needs at this time
+
+**Contact information (phone, email)**:  300 Hospital Drive, Vallejo, CA 94589, (707) 554-4444
+
 
 ## [Sonoma](https://sonomacounty.ca.gov/Public-Safety/Hospitals/)
 
