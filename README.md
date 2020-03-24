@@ -403,7 +403,7 @@ New and Unused Personal Protective Equipment N95 masks (e.g. 3M 1860, 3M 1870+),
 **City**: San Francisco
 
 **What do they need help with?** 
-Monetary Donations [here] (https://www.chinesehospital-sf.org/donate-now) 
+Monetary Donations [here](https://www.chinesehospital-sf.org/donate-now) 
 
 **Contact information (phone, email)**: 1-415-677-2470 or donate@chasf.org
 
