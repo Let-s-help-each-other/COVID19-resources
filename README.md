@@ -357,6 +357,58 @@ Christin Evans, 632 Ashbury St, San Francisco, CA 94117, 510.459.5451
 
 ---
 
+### CPMC 
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** 
+Personal Protective Equipment (goggles, face shields, hand sanitizer, masks (N95, surgical, and isolation masks), isolation or surgical gowns and wipes.) Please call CPMC to arrange drop off. 
+
+**Contact information (phone, email)**: (844) 987-6099
+
+---
+
+### Glide After School Services 
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** 
+Tablets and laptops for low-income kids to remote learn (70 needed) 
+
+**Contact information (phone, email)**: 415.674.6000, development@glide.org
+
+---
+
+### North East Medical Services (NEMS)
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** 
+New and Unused Personal Protective Equipment N95 masks (e.g. 3M 1860, 3M 1870+), Face Shields, Googles, Gowns or hazmat suits, Bottled hand sanitizer. Email to arrange for drop off.
+
+**Contact information (phone, email)**: info@nems.org
+
+---
+
+### Chinese Hospital
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** 
+Monetary Donations [here] (https://www.chinesehospital-sf.org/donate-now) 
+
+**Contact information (phone, email)**: 1-415-677-2470 or donate@chasf.org
+
+---
+
 ## San Mateo
 
 ### [Rape Trauma Services](https://www.rapetraumaservices.org/what-we-do/overview.html)
