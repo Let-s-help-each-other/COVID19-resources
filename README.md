@@ -22,7 +22,9 @@ Go [here](https://www.cdc.gov/coronavirus/2019-ncov/faq.html) for the Centers fo
 
 Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx) for the State of California Department of Public Health.
 
-### There is a severe blood shortage. Please go to the [Red Cross](https://www.redcross.org/) to book an appointment.  
+### There is a severe blood shortage. Please go to the [Red Cross](https://www.redcross.org/) to book an appointment. 
+
+Want to help protect health care workers and medical personnel by making protective gear? While adhering to social distancing guidelines, [participating JOANN stores](https://www.joann.com/stores?utm_campaign=2256185&ranMID=43312&ranEAID=CY3NkS*Y9qw&ranSiteID=CY3NkS.Y9qw-VqoTsB7eRF2kuZuoFu4OUw) are opening up their Creator’s Studios to allow customers to make [face masks, covers, gowns, and other items](https://www.joann.com/make-to-give-response/?utm_campaign=2256185&ranMID=43312&ranEAID=CY3NkS*Y9qw&ranSiteID=CY3NkS.Y9qw-w70y8surDNfeW2Nhd8F5jQ) to donate to America’s hospitals
 
 ## By County: 
 [Alameda](#alameda) || [Contra Costa](#contra-costa) || [Marin](#marin) || [Napa](#napa) || [San Francisco](#san-francisco) || [San Mateo](#san-mateo) || [Santa Clara](#santa-clara) || [Solano](#solano) || [Sonoma](#sonoma) 
