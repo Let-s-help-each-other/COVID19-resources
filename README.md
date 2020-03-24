@@ -227,18 +227,6 @@ Greenbrae, CA
 
 ## San Francisco
 
-### UCSF
-
-**County**: San Francisco
-
-**City**: San Francisco
-
-**What do they need help with?** N95 masks, gloves, goggles, face shields and other supplies. Medical students will be collecting supplies on the corner of 18th and Dolores Strees, San Francisco, from 10 a.m to 3 p.m. on Friday, March 20 through Sunday, March 22. Anyone who needs supplies picked up can call or text (925) 323-0089.
-
-**Contact information (phone, email)**: Corner of 18th and Dolores Strees, San Francisco; call or text (925) 323-0089. 
-
----
-
 ### San Francisco Medical Center
 
 **County**: San Francisco
@@ -253,6 +241,115 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 
 ---
 
+### UCSF
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** Personal Protective Equipment (goggles, face shields, hand sanitizer, masks (N95, surgical, and isolation masks), isolation or surgical gowns and wipes.)
+Donation sites at three locations. They will be receiving donations 7 days a week, 8 a.m. to 5 p.m.
+
+UCSF Mount Zion Medical Center
+1600 Divisadero St., San Francisco
+Semicircle driveway
+
+UCSF Mission Center Building
+1855 Folsom St., San Francisco
+Entrance in the parking lot on Harrison at 15th Street
+
+UCSF Benioff Children’s Hospital Oakland
+747 52nd St., Oakland
+Ambassador Desk
+
+Monetary donations for research and supplies [here] (https://giving.ucsf.edu/coronavirus)
+
+**Contact information (phone, email)**: CovidPPEdonations@ucsf.edu.
+Industry Donations: Dean.Shehu@ucsf.edu 
+
+---
+
+### Kaiser San Francisco
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** 
+Personal Protective Equipment (goggles, face shields, hand sanitizer, masks (N95, surgical, and isolation masks), isolation or surgical gowns and wipes.) 
+
+Mail to: Kaiser Permanente, 2130 O'Farrell St., San Francisco, CA 94115 Attn: Hospital Command Center 
+Drop Off at the loading dock Monday to Friday 6 a.m. to 2:30 p.m at 2130 O'Farrell St. 
+If you are dropping off donations, please call (415) 833-2593 and a staff member will come to accept the donation. 
+
+**Contact information (phone, email)**: (415)833-2000 
+
+---
+
+###[SF Marin Food-Bank Pop Up](https://www.sfmfoodbank.org/)
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** 
+Volunteers at the pop-up pantries citywide. Sign up for a shift [here] (https://www.sfmfoodbank.org/community-volunteer-support/)
+
+**Contact information (phone, email)**:  415-282-1900; info@sfmfoodbank.org
+
+---
+
+### SF Unified School District
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** 
+Sign up on the volunteer list (volunteers not needed at this time, but be on the list to be on-call if they need new people) Sign up for a shift here: 
+
+https://www.sfmfoodbank.org/community-volunteer-support/
+Seeking donations to provide more food for students:
+https://www.sfusd.edu/services/health-wellness/nutrition-school-meals/donate
+
+**Contact information (phone, email)**:schoollunch@sfusd.edu; 415-749-3604
+
+---
+
+### Coalition on Homelessness (San Francisco
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** 
+Tents! Homeless folks are the most at-risk for contracting COVID-19. In a time of social distancing, self-quarantining, and shelter-in-place orders, and with limited sanitation facilities, a tent is an unhoused person’s only line of defense against COVID-19 infection. Tents are needed now more than ever. You can order tents online and mail directly to the addresses below.
+
+**Contact information (phone, email)**: 
+Brian Edwards
+674 Hayes St
+San Francisco, CA 94102
+415.967.3911
+
+Christin Evans
+632 Ashbury St
+San Francisco, CA 94117
+510.459.5451
+
+---
+
+### San Francisco Council of District Merchants Associations (SFCDMA)
+
+**County**: San Francisco
+
+**City**: San Francisco
+
+**What do they need help with?** Monetary donations to help small businesses: https://www.gofundme.com/f/help-save-sf-small-businesses-during-shutdown
+
+**Contact**: info@sfcdma.org 
+
+---
+
 ### [GLIDE](https://www.glide.org/)
 
 **County**: San Francisco
@@ -262,18 +359,6 @@ If you are dropping off donations, please call (415) 833-2593 and a staff member
 **What do they need help with?** Donations. They've temporarily closed the dining rooms and suspended the volunteer program to protect public health, but continue to provide to-go meals and other services.
 
 **Contact information (phone, email)**: 415-674-6000, info@glide.org for general; 415-674-6070, development@glide.org for donations
-
----
-
-### [SF-Marin Food Bank](https://www.sfmfoodbank.org/)
-
-**County**: San Francisco
-
-**City**: San Francisco
-
-**What do they need help with?** Donations and some volunteers for pop-up pantries. They're continuing operations, but reducing the number of volunteers to maintain distance. Every dollar donated is enough for 2 meals, and 94% of donations go directly to their programs.
-
-**Contact information (phone, email)**: 415-282-1900, info@sfmfoodbank.org
 
 ---
 
