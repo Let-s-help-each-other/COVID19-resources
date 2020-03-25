@@ -41,7 +41,7 @@ Want to help protect health care workers and medical personnel by making protect
 
 **City**: Alameda
 
-**What do they need help with?** TODO: Call back during business hours and ask for management to advise.
+**What do they need help with?** N95 masks and drop off in the Main lobby anytime. 
 
 **Contact information (phone, email)**: 2070 Clinton Ave, Alameda, CA 94501, (510) 522-3700
 
@@ -53,7 +53,7 @@ Want to help protect health care workers and medical personnel by making protect
 
 **City**: Oakland
 
-**What do they need help with?** TODO: Call back during business hours and ask for management to advise.
+**What do they need help with?** N95 and surgical masks, gloves, hand sanitizers, wipes, face shields and any other medical supplies. Drop off at the triage tent in front of the ER anytime.  
 
 **Contact information (phone, email)**: 1411 E 31st St, Oakland, CA 94602, (510) 437-4800
 
@@ -77,7 +77,7 @@ Want to help protect health care workers and medical personnel by making protect
 
 **City**: Fremont
 
-**What do they need help with?** TODO: Could not reach anyone. Call back during business hours.
+**What do they need help with?** Unused medical supplies can be dropped off at the Main hospital building between 8AM-6PM. 
 
 **Contact information (phone, email)**: 39400 Paseo Padre Parkway, Fremont, CA 94538, 510-248-3000
 
@@ -101,7 +101,7 @@ Want to help protect health care workers and medical personnel by making protect
 
 **City**: Hayward
 
-**What do they need help with?** TODO: Call back during business hours
+**What do they need help with?** There is a shortage of N95 masks, please drop off at the security entrance in front of the ER anytime.
 
 **Contact information (phone, email)**: 27200 Calaroga Ave, Hayward, CA 94545, (510) 264-4000
 
@@ -267,7 +267,7 @@ Greenbrae, CA
 
 **City**: San Rafael
 
-**What do they need help with?** There's a shortage of medical items, N95 masks and hand sanitizer especially. Please drop off _unopened_ items, Monday-Friday, 8am-5pm, at the main hospital entrance.
+**What do they need help with?** Waiting to hear back, but given the N95 shortages reported elsewhere, they're almost certainly accepting masks.
 
 **Contact information (phone, email)**: 99 Montecillo Road, San Rafael, CA 94903, 415-444-2000
 
