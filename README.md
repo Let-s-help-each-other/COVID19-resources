@@ -676,6 +676,8 @@ Monetary Donations [here](https://www.chinesehospital-sf.org/donate-now)
 
 **What do they need help with?**: [Donations of PPE](https://vmcfoundation.org/covid19list/); <q>Donations can be delivered to our office between the hours of Monday-Friday 8 a.m. – 5 p.m. and Saturdays and Sunday 10 a.m. – 3 p.m. at 2400 Clove Drive, San Jose (on the campus of Santa Clara Valley Medical Center).  Questions?  Call 408-885-5299 or email vmcfoundation@hhs.sccgov.org.</q>
 
+**Contact information (phone, email)**: List of locations [here] (https://www.scvmc.org/clinics-and-locations/Pages/Find-a-Health-Center.aspx?Page_No=1&selectedServices=18)
+
 ---
 
 ### [Gardner Health Services](https://gardnerhealthservices.org/services/flu-shot-clinic/)
@@ -688,7 +690,9 @@ Monetary Donations [here](https://www.chinesehospital-sf.org/donate-now)
 
 **Note**: Gardner is not cancelling existing appointments
 
-**What do they need help with?**: [Money](https://gardnerhealthservices.org/support-gardner/) **TODO**: sent email asking what they need, besides money
+**What do they need help with?**: [Money](https://gardnerhealthservices.org/support-gardner/) 
+
+**Contact information (phone, email)**: 195 E Virginia St, San Jose, CA 95112, (408) 457-7100
 
 ---
 
