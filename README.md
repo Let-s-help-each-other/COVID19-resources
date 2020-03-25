@@ -63,7 +63,7 @@ Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.
 
 **City**: Oakland
 
-**What do they need help with?**  Goggles, hand sanitizer, masks, face shields, surgical gowns, Clorox or sani-cloth wipes. Large items such as ventilators, cappers, and pappers are also welcome. Call them to schedule a coordinated donation for drop-off or pick-up. Identify the size, type, and quantity of the donation and you will be contacted within 24 hours.
+**What do they need help with?**  Goggles, hand sanitizer, masks, face shields, surgical gowns, Clorox or sani-cloth wipes. Large items such as ventilators and CAPR/PAPR machines are also welcome. Call them to schedule a coordinated donation for drop-off or pick-up. Identify the size, type, and quantity of the donation and you will be contacted within 24 hours.
 
 **Contact information (phone, email)**: 3600 Broadway, Oakland, CA 94611, 510-752-1000 (Contact the Operator and ask to be transfered to "Donations")
 
@@ -625,7 +625,14 @@ Monetary Donations [here](https://www.chinesehospital-sf.org/donate-now)
 
 ### [Stanford Health Care](https://med.stanford.edu/covid19.html)
 
+**County**: Santa Clara
+
+**City**: Stanford
+
+**What do they need help with?** Masks (N95, surgical, and procedure), Disinfecting wipes such as Clorox or Sani-cloth wipes, Hand sanitizer, Face shields, Goggles and eye shields, Isolation or surgical gowns, CAPR/PAPR machines and disposables, and flocked swabs. Donations must be in unopened, original packaging. More details here: https://stanfordhealthcare.org/stanford-health-care-now/2020/novel-coronavirus/covid-19-supply-donation-guidelines.html?fbclid=IwAR3LCQh0f4N7r7tYZuMktpogXxzEsrT3e-hp5HvH2QOpreoVjBBflOiIOKI.
+
 **TODO** Called office of communications (Lisa Kim, 650-723-6696) with request for information on PPE donations
+
 
 ---
 
