@@ -39,21 +39,9 @@ Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.
 
 **City**: Alameda
 
-**What do they need help with?** 
+**What do they need help with?** TODO: Call back during business hours and ask for management to advise.
 
 **Contact information (phone, email)**: 2070 Clinton Ave, Alameda, CA 94501, (510) 522-3700
-
----
-
-### Alta Bates Summit Medical Center
-
-**County**: Alameda
-
-**City**: Oakland
-
-**What do they need help with?** 
-
-**Contact information (phone, email)**: 350 Hawthorne Ave Oakland, CA 94609, (510) 655-4000
 
 ---
 
@@ -63,7 +51,7 @@ Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.
 
 **City**: Oakland
 
-**What do they need help with?** 
+**What do they need help with?** TODO: Call back during business hours and ask for management to advise.
 
 **Contact information (phone, email)**: 1411 E 31st St, Oakland, CA 94602, (510) 437-4800
 
@@ -75,9 +63,9 @@ Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.
 
 **City**: Oakland
 
-**What do they need help with?** 
+**What do they need help with?**  Goggles, hand sanitizer, masks, face shields, surgical gowns, Clorox or sani-cloth wipes. Large items such as ventilators, cappers, and pappers are also welcome. Call them to schedule a coordinated donation for drop-off or pick-up. Identify the size, type, and quantity of the donation and you will be contacted within 24 hours.
 
-**Contact information (phone, email)**: 3600 Broadway, Oakland, CA 94611, 510-752-1000
+**Contact information (phone, email)**: 3600 Broadway, Oakland, CA 94611, 510-752-1000 (Contact the Operator and ask to be transfered to "Donations")
 
 ---
 
@@ -87,7 +75,7 @@ Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.
 
 **City**: Fremont
 
-**What do they need help with?** 
+**What do they need help with?** TODO: Could not reach anyone. Call back during business hours.
 
 **Contact information (phone, email)**: 39400 Paseo Padre Parkway, Fremont, CA 94538, 510-248-3000
 
@@ -99,33 +87,9 @@ Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.
 
 **City**: San Leandro
 
-**What do they need help with?** 
+**What do they need help with?** No shortage at the moment.
 
 **Contact information (phone, email)**: 2800 Benedict Dr, San Leandro, CA 94577, (510) 357-8300
-
----
-
-### Livermore VA Hospital
-
-**County**: Alameda
-
-**City**: Livermore
-
-**What do they need help with?** 
-
-**Contact information (phone, email)**: 4951 Arroyo Rd, Livermore, CA 94550, (925) 373-4700
-
----
-
-### Oakland Medical Center
-
-**County**: Alameda
-
-**City**: Oakland
-
-**What do they need help with?** 
-
-**Contact information (phone, email)**: 275 W MacArthur Blvd, Oakland, CA 94611, (510) 752-1000
 
 ---
 
@@ -135,7 +99,7 @@ Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.
 
 **City**: Hayward
 
-**What do they need help with?** 
+**What do they need help with?** TODO: Call back during business hours
 
 **Contact information (phone, email)**: 27200 Calaroga Ave, Hayward, CA 94545, (510) 264-4000
 
