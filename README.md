@@ -267,7 +267,7 @@ Greenbrae, CA
 
 **City**: San Rafael
 
-**What do they need help with?** Waiting to hear back, but given the N95 shortages reported elsewhere, they're almost certainly accepting masks.
+**What do they need help with?** There's a shortage of medical gear, especially N95 masks and hand sanitizer. Please drop off _unopened_ items, M-F 8am-5pm, at the main hospital entrance.
 
 **Contact information (phone, email)**: 99 Montecillo Road, San Rafael, CA 94903, 415-444-2000
 
