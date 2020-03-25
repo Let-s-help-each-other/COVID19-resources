@@ -662,7 +662,7 @@ Monetary Donations [here](https://www.chinesehospital-sf.org/donate-now)
 
 **What do they need help with?** Accepting surgical & N95 masks, all gowns, painters smock, protective glasses and goggles, almost every medical supplies. Please drop off at 3544 Bassett St in Santa Clara 8AM-5PM. 
 
-**Contact information (phone, email)**: 795 El Camino Real, Palo Alto, CA 94301
+**Contact information (phone, email)**: 795 El Camino Real, Palo Alto, CA 94301, 650-321-4121
 
 ---
 
