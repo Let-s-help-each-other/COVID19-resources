@@ -618,15 +618,26 @@ Monetary Donations [here](https://www.chinesehospital-sf.org/donate-now)
 
 ### [Good Samaritan Hospital](https://goodsamsanjose.com/covid-19/index.dot)
 
-**TODO**: Emailed for information on donations
+**County** Santa Clara
 
-### Kaiser Permamente 
+**City**: San Jose
 
-**TODO** Called Kaiser Media Relations office (Matt, 510-987-3900) to request information on PPE donations 
+**What do they need help with?**: Accepting N95 & surgical masks, gloves, goggles. Please drop off at the Main ER anytime. 
 
-* Santa Clara Medical Center
-* Milpitas Medical Center
-* Santa Teresa Medical Center 
+**Contact information (phone, email)**: 2425 Samaritan Dr, San Jose, CA 95124, 408-559-2011
+
+---
+
+### Kaiser Permamente, Santa Clara Medical Center, Milpitas Medical Center, Santa Teresa Medical Center 
+
+**County** Santa Clara
+
+**City**: Santa Clara 
+
+**What do they need help with?**: Accepting face masks and medical issued supplies. Catered lunch for doctors and nurses. Please drop off in front of the ER with the greeter anytime. 
+
+**Contact information (phone, email)**: 700 Lawrence Expy, Santa Clara, CA 95051, 408-851-1000
+
 
 ---
 
