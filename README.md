@@ -614,6 +614,8 @@ Monetary Donations [here](https://www.chinesehospital-sf.org/donate-now)
 
 **What do they need help with?**: [They are accepting cash and donations of PPE](https://www.elcaminohealth.org/newsroom/information-from-el-camino-health-regarding-novel-coronavirus-covid-19#donate); please contact them before bringing equipment
 
+**Contact information (phone, email)**: 2500 Grant Rd, Mountain View, CA 94040, 650-940-7000
+
 ---
 
 ### [Good Samaritan Hospital](https://goodsamsanjose.com/covid-19/index.dot)
@@ -628,7 +630,7 @@ Monetary Donations [here](https://www.chinesehospital-sf.org/donate-now)
 
 ---
 
-### Kaiser Permamente, Santa Clara Medical Center, Milpitas Medical Center, Santa Teresa Medical Center 
+### Kaiser Permamente, Santa Clara Medical Center, Santa Teresa Medical Center 
 
 **County** Santa Clara
 
@@ -636,8 +638,7 @@ Monetary Donations [here](https://www.chinesehospital-sf.org/donate-now)
 
 **What do they need help with?**: Accepting face masks and medical issued supplies. Catered lunch for doctors and nurses. Please drop off in front of the ER with the greeter anytime. 
 
-**Contact information (phone, email)**: 700 Lawrence Expy, Santa Clara, CA 95051, 408-851-1000
-
+**Contact information (phone, email)**: 700 Lawrence Expy, Santa Clara, CA 95051, 408-851-1000 and 250 Hospital Pkwy, San Jose, CA 95119, (408) 972-3000
 
 ---
 
@@ -649,14 +650,19 @@ Monetary Donations [here](https://www.chinesehospital-sf.org/donate-now)
 
 **What do they need help with?** Masks (N95, surgical, and procedure), Disinfecting wipes such as Clorox or Sani-cloth wipes, Hand sanitizer, Face shields, Goggles and eye shields, Isolation or surgical gowns, CAPR/PAPR machines and disposables, and flocked swabs. Donations must be in unopened, original packaging. More details [here] (https://stanfordhealthcare.org/stanford-health-care-now/2020/novel-coronavirus/covid-19-supply-donation-guidelines.html?fbclid=IwAR3LCQh0f4N7r7tYZuMktpogXxzEsrT3e-hp5HvH2QOpreoVjBBflOiIOKI)
 
-**TODO** Called office of communications (Lisa Kim, 650-723-6696) with request for information on PPE donations
-
+**Contact information (phone, email)**: 1199 Welch Road, Stanford, CA 94304, 650-723-5111
 
 ---
 
 ### [Palo Alto Medical Foundation (Sutter Health)](https://www.sutterhealth.org/for-patients/health-alerts/2019-novel-coronavirus)
 
-**TODO** Called Sutter's press office and left message 
+**County**: Santa Clara
+
+**City**: Palo Alto
+
+**What do they need help with?** Accepting surgical & N95 masks, all gowns, painters smock, protective glasses and goggles, almost every medical supplies. Please drop off at 3544 Bassett St in Santa Clara 8AM-5PM. 
+
+**Contact information (phone, email)**: 795 El Camino Real, Palo Alto, CA 94301
 
 ---
 
