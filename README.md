@@ -87,9 +87,9 @@ Go [here](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.
 
 **City**: San Leandro
 
-**What do they need help with?** No shortage at the moment.
+**What do they need help with?** Asking for masks and bleach wipes. 
 
-**Contact information (phone, email)**: 2800 Benedict Dr, San Leandro, CA 94577, (510) 357-8300
+**Contact information (phone, email)**: 2800 Benedict Dr, San Leandro, CA 94577, (510) 357-8300 and ask for Varsha.
 
 ---
 
