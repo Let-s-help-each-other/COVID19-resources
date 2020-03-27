@@ -648,7 +648,7 @@ Monetary Donations [here](https://www.chinesehospital-sf.org/donate-now)
 
 **City**: Stanford
 
-**What do they need help with?** Masks (N95, surgical, and procedure), Disinfecting wipes such as Clorox or Sani-cloth wipes, Hand sanitizer, Face shields, Goggles and eye shields, Isolation or surgical gowns, CAPR/PAPR machines and disposables, and flocked swabs. Donations must be in unopened, original packaging. More details [here] (https://stanfordhealthcare.org/stanford-health-care-now/2020/novel-coronavirus/covid-19-supply-donation-guidelines.html?fbclid=IwAR3LCQh0f4N7r7tYZuMktpogXxzEsrT3e-hp5HvH2QOpreoVjBBflOiIOKI)
+**What do they need help with?** Masks (N95, surgical, and procedure), Disinfecting wipes such as Clorox or Sani-cloth wipes, Hand sanitizer, Face shields, Goggles and eye shields, Isolation or surgical gowns, CAPR/PAPR machines and disposables, and flocked swabs. Donations must be in unopened, original packaging. More details [here](https://stanfordhealthcare.org/stanford-health-care-now/2020/novel-coronavirus/covid-19-supply-donation-guidelines.html?fbclid=IwAR3LCQh0f4N7r7tYZuMktpogXxzEsrT3e-hp5HvH2QOpreoVjBBflOiIOKI)
 
 **Contact information (phone, email)**: 1199 Welch Road, Stanford, CA 94304, 650-723-5111
 
