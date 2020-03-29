@@ -588,6 +588,25 @@ Monetary Donations [here](https://www.chinesehospital-sf.org/donate-now)
 
 **Website**: https://www.smc-connect.org/locations/san-mateo-county-health-system/aging-and-adult-services
 
+---
+
+### San Mateo County
+
+**County**: San Mateo
+
+**City**: All 
+
+**What do they need help with?** PPE donations can be dropped off at the Maple Street Correctional Facility located at 1300 Maple Street in Redwood City.   Please look for the “Donations” signs in the front parking lot where there will be staffers available to collect your donation.  
+
+Unused N95 respirators and surgical masks. Boxes and packages can be opened, as long as masks have not been used. 
+- Packages of disposable gloves, preferably nitrile exam gloves in all sizes. 
+- Containers of commercially produced hand sanitizer 
+- Containers of disinfectants and disinfecting wipes 
+- Packaged, unused protective goggles 
+- Surgical gowns;   Fluid resistant gowns;   Coveralls
+
+**Contact information (phone, email)**: none
+
 
 
 ## Santa Clara
