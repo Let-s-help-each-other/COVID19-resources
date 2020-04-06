@@ -26,6 +26,7 @@ Congresswoman Alexandria Octavia-Cortez and community organizer Mariame Kaba sha
 
 Want to help protect health care workers and medical personnel by making protective gear? While adhering to social distancing guidelines, [participating JOANN stores](https://www.joann.com/stores?utm_campaign=2256185&ranMID=43312&ranEAID=CY3NkS*Y9qw&ranSiteID=CY3NkS.Y9qw-VqoTsB7eRF2kuZuoFu4OUw) are opening up their Creator’s Studios to allow customers to make [face masks, covers, gowns, and other items](https://www.joann.com/make-to-give-response/?utm_campaign=2256185&ranMID=43312&ranEAID=CY3NkS*Y9qw&ranSiteID=CY3NkS.Y9qw-w70y8surDNfeW2Nhd8F5jQ) to donate to America’s hospitals
 
+
 ## By County: 
 [Alameda](#alameda) || [Contra Costa](#contra-costa) || [Marin](#marin) || [Napa](#napa) || [San Francisco](#san-francisco) || [San Mateo](#san-mateo) || [Santa Clara](#santa-clara) || [Solano](#solano) || [Sonoma](#sonoma) 
 
@@ -299,6 +300,8 @@ Greenbrae, CA
 
 
 ## San Francisco
+
+If you're looking to [volunteer locally in SF](https://sf.gov/be-emergency-volunteer)
 
 ### San Francisco Medical Center
 
